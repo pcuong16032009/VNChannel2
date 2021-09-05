@@ -6,55 +6,55 @@
 
 http://103.81.84.80:46803/vtv6
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng lo?i World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD
+#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng loai World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD
 http://103.137.184.219:9981/stream/channelid/1892023981?ticket=D01E418AA813FA70131AE9DB8C4DFCEAE0709AA0&profile=pass
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng lo?i World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 FPT
+#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng loai World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 FPT
 http://103.137.184.219:9981/stream/channelid/1819276498?ticket=46E818E5FB54A815BB6D615C138DD53A354F8172&profile=pass
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng lo?i World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 VNPT
+#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng loai World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 VNPT
 http://103.137.184.219:9981/stream/channelid/1018207381?ticket=582BFEC4813B9AEA5442A6148FBF1B6701C3D0C0&profile=pass
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng lo?i World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 T2
+#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng loai World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 T2
 http://103.137.184.219:9981/stream/channelid/277845489?ticket=E77684785384708A1BD2B04C7B8CE581B872AF39&profile=pass
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng lo?i World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 FPT
+#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng loai World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 FPT
 http://103.137.184.219:9981/stream/channelid/1982329050?ticket=137EC7AFC9F66182CB25D0BF6ED9AE70454BB528&profile=pass
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng lo?i World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 VNPT
+#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng loai World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 VNPT
 http://103.137.184.219:9981/stream/channelid/362759416?ticket=9DB157BC94983C6FAC8B6F48854AE9A0702E0F60&profile=pass
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng lo?i World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 T2
+#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng loai World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 T2
 http://103.137.184.219:9981/stream/channelid/1298850891?ticket=FD6D42E502D0A07E90EEA71F2B7869AB8CB72269&profile=pass
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng lo?i World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SCTV
+#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng loai World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SCTV
 http://103.137.184.219:9981/stream/channelid/701751180?ticket=6232D2D0F3A4889DD24408D1C92C4EF0B78A6A24&profile=pass
 
-#EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV 1080p", VTV1 HD
+#EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV 1080p", VTV1 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://mytv.com.vn/upload/channel/2.png" group-title="VTV 1080p", VTV2 HD
+#EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://mytv.com.vn/upload/channel/2.png" group-title="VTV 1080p", VTV2 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VTV 1080p", VTV3 HD
+#EXTINF:0 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VTV 1080p", VTV3 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV 1080p", VTV4 HD
+#EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV 1080p", VTV4 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://mytv.com.vn/upload/channel/5.png" group-title="VTV 1080p", VTV5 HD
+#EXTINF:0 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://mytv.com.vn/upload/channel/5.png" group-title="VTV 1080p", VTV5 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VTV 1080p", VTV6 HD
+#EXTINF:0 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VTV 1080p", VTV6 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png 1080p" group-title="VTV", VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png 1080p" group-title="VTV", VTV7 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV 1080p", VTV8 HD
+#EXTINF:0 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV 1080p", VTV8 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV 1080p", VTV9 HD
+#EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV 1080p", VTV9 1080p 
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV", VTV1 HD
