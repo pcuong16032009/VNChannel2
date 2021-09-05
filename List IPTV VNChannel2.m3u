@@ -6,6 +6,30 @@
 
 http://103.81.84.80:46803/vtv6
 
+#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD
+http://103.137.184.219:9981/stream/channelid/1892023981?ticket=D01E418AA813FA70131AE9DB8C4DFCEAE0709AA0&profile=pass
+
+#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 FPT
+http://103.137.184.219:9981/stream/channelid/1819276498?ticket=46E818E5FB54A815BB6D615C138DD53A354F8172&profile=pass
+
+#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 VNPT
+http://103.137.184.219:9981/stream/channelid/1018207381?ticket=582BFEC4813B9AEA5442A6148FBF1B6701C3D0C0&profile=pass
+
+#EXTINF:0 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 T2
+http://103.137.184.219:9981/stream/channelid/277845489?ticket=E77684785384708A1BD2B04C7B8CE581B872AF39&profile=pass
+
+#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 FPT
+http://103.137.184.219:9981/stream/channelid/1982329050?ticket=137EC7AFC9F66182CB25D0BF6ED9AE70454BB528&profile=pass
+
+#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 VNPT
+http://103.137.184.219:9981/stream/channelid/362759416?ticket=9DB157BC94983C6FAC8B6F48854AE9A0702E0F60&profile=pass
+
+#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 T2
+http://103.137.184.219:9981/stream/channelid/1298850891?ticket=FD6D42E502D0A07E90EEA71F2B7869AB8CB72269&profile=pass
+
+#EXTINF:0 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SCTV
+http://103.137.184.219:9981/stream/channelid/701751180?ticket=6232D2D0F3A4889DD24408D1C92C4EF0B78A6A24&profile=pass
+
 #EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV", VTV1 HD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -676,28 +700,13 @@ https://public.dm.files.1drv.com/y4m6g23b7tbPBSp4_qbR1ecbFh6BW4N8d5vaqZG7RB06PYU
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w176379961.m3u8
 
 #EXTINF:0 tvg-name="VOV2" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png" group-title="Radio", VOV2 
-https://streaming1.vov.vn:8443/audio/vovvn1_vov2.stream_aac/chunklist_w693573152.m3u8
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOV3" tvg-logo="https://lh3.googleusercontent.com/proxy/_gQ0BfFPPfA3b_4UQ45E23VnmH_0s8YXtffZF2Ah9E6JsmOQSHJ5fYUBou4fymZTklTjX9jHQi8ea-9Ureuphw" group-title="Radio", VOV3 
-https://stream.vov.vn/audio/vovvn1_vov3.stream_aac/chunklist_w1068869459.m3u8
-
-#EXTINF:0 tvg-name="VOV4 Tay Bac" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png" group-title="Radio", VOV4 Tay Bac 
-https://stream.vov.vn/audio/vovvn1_vovTTTB.stream_aac/playlist.m3u8
-
-#EXTINF:0 tvg-name="VOV4 Tay Nguyen" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png" group-title="Radio", VOV4 Tay Nguyen 
-https://stream.vov.vn/audio/vovvn1_vovTTTN.stream_aac/playlist.m3u8
-
-#EXTINF:0 tvg-name="VOV4 Mien Trung" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png" group-title="Radio", VOV4 Mien Trung 
-https://stream.vov.vn/audio/vovvn1_vovTTMT.stream_aac/playlist.m3u8
-
-#EXTINF:0 tvg-name="VOV4 TP.HCM" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png" group-title="Radio", VOV4 TP.HCM 
-https://stream.vov.vn/audio/vovvn1_vovTTHCM.stream_aac/playlist.m3u8
-
-#EXTINF:0 tvg-name="VOV4 DBSCL" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png" group-title="Radio", VOV4 DBSCL 
-http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOV5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png" group-title="Radio", VOV5 
-https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/chunklist_w1481386275.m3u8
+http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOV5 24/7 English" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png" group-title="Radio", VOV5 24/7 English 
 https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/chunklist_w996606358.m3u8
@@ -705,29 +714,32 @@ https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/chunklist_w9966063
 #EXTINF:0 tvg-name="VOV6" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniLICEJAuIv0JIonvxFZjgi2EbrOjqyCFf9luvo=s900-c-k-c0x00ffffff-no-rj" group-title="Radio", VOV6 
 https://stream.vov.vn/audio/vovvn1_vov2.stream_aac/chunklist_w912912343.m3u8
 
+#EXTINF:0 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1280px-Logo_VOV.svg.png", VOV 24/7 
+http://media.kythuatvov.vn:7007/;stream/
+
 #EXTINF:0 tvg-name="VOV Giao Thong Ha Noi" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/BSDtFyJqVR.jpg" group-title="Radio", VOV Giao Thong Ha Noi 
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w315416788.m3u8
+http://media.kythuatvov.vn:7025/;stream/8
 
 #EXTINF:0 tvg-name="VOV Giao Thong TP.HCM" tvg-logo="https://lh3.googleusercontent.com/proxy/gFydwGOezrYd6Xm2b7OkQXkCHFc4EtTEKqDE9463uUMBIVzr3s33q5Xm52OYyqm8nDeyE2CLExIqqV27gngrrxiueV3XKVsq-w6V0p9dnaY" group-title="Radio", VOV Giao Thong TP.HCM 
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w947669292.m3u8
+http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOV Giao Thong Mekong" tvg-logo="https://mdcop.vn/wp-content/uploads/2019/05/quang-cao-vov-giao-thong.jpg" group-title="Radio", VOV Giao Thong Mekong 
-https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1925387601.m3u8
+http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOV Suc Khoe 89" tvg-logo="http://kythuatvov.vn/wp-content/uploads/2021/01/Logo-51.png" group-title="Radio", VOV Suc Khoe 89 
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOH AM 610 Khz" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png" group-title="Radio", VOH 610 Khz 
-https://strm.voh.com.vn/radio/channel2/chunklist_w2087257867.m3u8
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOH AM 99.9 Mhz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-99.9-MHz.jpg" group-title="Radio", VOH 99.9 Mhz 
-https://strm.voh.com.vn/radio/channel3/chunklist_w1277452239.m3u8
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOH AM 95.6 Mhz" tvg-logo="https://i.ibb.co/hgSzG3Z/voh956.png" group-title="Radio", VOH 95.6 Mhz 
-https://strm.voh.com.vn/radio/channel1/chunklist_w469361426.m3u8
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 
 #EXTINF:0 tvg-name="VOH AM 87.7 Mhz" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png" group-title="Radio", VOH 87.7 Mhz 
-https://strm.voh.com.vn/live/channel5/chunklist_w852475162.m3u8
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
 #EXTINF:0 tvg-name="Da Nang" tvg-logo="http://www.danangtv.vn/Images/radio.png" group-title="Radio", Da Nang 
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/chunklist.m3u8
@@ -824,51 +836,6 @@ https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="Japan", Tokyo MX2 
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-arirang-korea-8807.jpg" group-title="Korea", Ariang 
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="https://i.ytimg.com/vi/7jxWhYpxp-U/hqdefault_live.jpg" group-title="Korea", CBS Korea 
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQe_05z7zClV_G5znUymGL77aVsee0Vj4LjEGBo=s900-c-k-c0x00ffffff-no-rj" group-title="Korea", GCN Korea 
-http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea", GugbangTV Korea 
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="https://www.freeetv.com/images/01_logo/mtnlive_koera.jpg" group-title="Korea", MTN 
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="Korea", NBS 
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGNTV.kr" tvg-name="CGNTV" tvg-country="KR" group-title="Korean" tvg-logo="https://i.imgur.com/SQI9PAz.png" group-title="Religious",CGNTV (720p)
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea", CJB SBS 
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea",  SBS 
-http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea",  SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea",  SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea", KBS 1 
-http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea",  KBS 2
-http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea",  tVN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Korea",  Mnet
-http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 
 #EXTINF:0 tvg-name="globalbc" tvg-logo="data:image/png;base64,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" group-title="Canada", Gloabl BC 
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
