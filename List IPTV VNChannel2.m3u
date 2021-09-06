@@ -2,6 +2,33 @@
 
 #EXTM3U Vietnam Channel
 
+#EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV SD", VTV1 SD
+http://14.186.94.163:9981/stream/channelid/1111763406?profile=pass
+
+#EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://mytv.com.vn/upload/channel/2.png" group-title="VTV SD", VTV2 SD
+http://14.186.94.163:9981/stream/channelid/1073077450?profile=pass
+
+#EXTINF:0 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VTV SD", VTV3 SD
+http://14.186.94.163:9981/stream/channelid/247742897?profile=pass
+
+#EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV SD", VTV4 SD
+http://14.186.94.163:9981/stream/channelid/1017139633?profile=pass
+
+#EXTINF:0 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://mytv.com.vn/upload/channel/5.png" group-title="VTV SD", VTV5 SD
+http://14.186.94.163:9981/stream/channelid/1017861310?profile=pass
+
+#EXTINF:0 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VTV SD", VTV6 SD
+http://14.186.94.163:9981/stream/channelid/1681985244?profile=pass
+
+#EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png  group-title="VTV SD", VTV7 SD
+http://14.186.94.163:9981/stream/channelid/1569737971?profile=pass
+
+#EXTINF:0 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV SD", VTV8 SD
+http://14.186.94.163:9981/stream/channelid/456875910?profile=pass
+
+#EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV SD", VTV9 SD 
+http://14.186.94.163:9981/stream/channelid/1592361415?profile=pass
+
 #EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV 1080p", VTV1 1080p
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 
@@ -689,6 +716,18 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1885360669.m3u8
 #EXTINF:0 tvg-name="Luraco TV" tvg-logo="https://www.viettv24.com/main/images/luracotv_logo.jpg" group-title="Truyen Hinh Hai Ngoai", Luraco TV
 https://fr-1.galaxyott.com/viettv24/streamer/luraco/luraco/luraco_4/chunks.m3u8
 
+#EXTINF:0 tvg-name=" tvg-logo="" group-title="MyTV", 801
+http://14.186.94.163:9981/stream/channelid/1950703656?profile=pass
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="MyTV", 802
+http://14.186.94.163:9981/stream/channelid/1076597491?profile=pass
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="MyTV", 803
+http://14.186.94.163:9981/stream/channelid/1270255302?profile=pass
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="MyTV", 804
+http://14.186.94.163:9981/stream/channelid/239265896?profile=pass
+
 #EXTINF:0 tvg-id="axnhd" tvg-name="axnhd" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png" group-title="QNET", AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -987,7 +1026,7 @@ http://112.197.12.62/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&e
 http://103.81.84.80:46803/vtvcab18
 
 #EXTINF:0 tvg-id="vtvcab23hd" tvg-name="vtvcab23hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/220?cb=20191114130942" group-title="Sports", VTVCab 23 - Golf TV 
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+http://14.186.94.163:9981/stream/channelid/1093732346?profile=pass
 
 #EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network 
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
@@ -1017,7 +1056,7 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZ
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv19/sd1/index.m3u8?md5=uMR0F1oSOwIfKPtt7-a4xg&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab8_bibi" tvg-name="vtvcab8hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/BiBi_logo.png/revision/latest/scale-to-width-down/340?cb=20200611122915&path-prefix=vi" group-title="Kids", VTVCab 8 - Bibi
-http://112.197.12.62/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740
+http://14.186.94.163:9981/stream/channelid/1299666127?profile=pass
 
 #EXTINF:0 tvg-id="happykids" tvg-name="happykidshd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU" group-title="Kids", Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
@@ -1031,11 +1070,17 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="at-x" tvg-name="AT-X" tvg-logo="data:image/png;base64,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" group-title="Kids", AT-X
 https://sub2.neetball.net/live/neet.m3u8
 
-EXTINF:0 tvg-id="disneyjunior" tvg-name="disneyjumior" tvg-logo="" group-title="Kids", Disney Junior
-https://public.dm.files.1drv.com/y4mnfbz5gH_bz2_o-r8JGbg9SGMX2anueJQ8nGh28bjOZXzqmZsVSeWJdE0ZNmY579nbaLi3OF-j342v6i_Sv9OSKKqaEPEgA98JfpHSCXNyjP8w5NhKsRInDsIyDZLRfhqiCtf6g5qe4r0rU94eqU5ZZwi6qIbysT8HBwd_JgO_NzELi0YBiBm4VB8c1XEQKQnaqxbRdX9ZuRcHismGLPt7zEgEQIu1V04NHa4iSRJC6g?access_token=EwAIA61DBAAU2kADSankulnKv2PwDjfenppNXFIAAXD6OVBLvMSt2hBJeOVohkR5D6v9aWP5qhrclekJbHRCnpMJkV/NKnualJaNeBjSuAd39NsrtZ7BE1QsglWOgXruGbmNZyvBhVtbw2tyi8ZCV9zoyEvDLXwZ71bpGm1bRz35kpnNvc/7I8ISpR41SmiC6G8uUYBNUoFqaLz%2bAV94Cvfjhewly02nIL0aeVuImsUesMNn7cMT0hAyG4xLViapsPFgV6ooV%2bAkK91lIqpb8mequfn4uvwVQMkXMSYtnUw0aaTCYkAOZf6aiw//NgQMSKNIjpFuQ/PCIrdU6rfur5F9ETE1qYJRqcb/mn79K5CQVs1KPconKLcPUWPCPpADZgAACJOq0hWrrjzW2AEFWFrmw7Q369fJEguaMurpiQgY05YeaKhoUhCfRn2yTR2znfCkU3tbb%2bl2Hx9KWHpLVu7aCEX9GHlUmVWbyTNUFlH87tkdRsAAhGGYHrWUtZgj9fLVsB9%2bLR%2bEbjRQoKOA8BUE4DeoBZGDpxeWw3K6JXeFhhpdVm7ASTAdE%2b3baiurZbeQmOi/gGU08EYMsLdsSV6%2bEfIujiM3hZleMNkPUTF6yURXL3wzwlkmzhexlL6wsGXRqokP1BZ2bDWmTUkKbmCXAmkkse/75lXOjYvgw2SwQUtmpAeaJXr0T362MEItJecM8lc10rzU5PS/GT3pZUatgSWEUZnN2Yd0zJxc0rVSu996vTUSRHwgZP%2bWD87wzMNuGViiUcVwUPuIhhRO9lwcCW8NNa/yloag3ujmaae5dAw22Rsr8HxUZGsJeeCpE2NXeMkmMnTFTfFaqJrMYxAMhhA1zFJR4Z/MeLUflQv1SIk39Hba0TnXKisFUPhHlC0AdHTU1tdx77o2z%2bfmBTfIOg3cX9s7uzKaM5jRIbFfs/f75pR/7lS2gue6zIXPTqitwVsesmVs6M%2bD8B2CRcKxvSGaCNrtYNhBNbtVhQ9C4eLoIvq2yV490vYKPjQCHR%2biNt93FAI%3d
+#EXTINF:0 tvg-id="disneyjunior" tvg-name="disneyjumior" tvg-logo="" group-title="Kids", Disney Junior
+http://14.186.94.163:9981/stream/channelid/155199642?profile=pass
 
-EXTINF:0 tvg-id="disney" tvg-name="disney" tvg-logo="" group-title="Kids", Disney Channel
-https://public.dm.files.1drv.com/y4m6g23b7tbPBSp4_qbR1ecbFh6BW4N8d5vaqZG7RB06PYUp0V5O5Z5eSNcm_NvMLM3Yzb9gwnrBWonEn6RXC0yvmmD0_T9vhh3vjSGqWGObaGQ7-N2j4nvxqGDtRvM29EYWk8uIRy6Eg_Mryt7o5IunXgCCSEBn01zEPnWnipH_9-h_ciri1WZ0a07VqXPwgTF5358ocNkdVPisavRCCShUGn1zUt4v3kv9QLVxs6WZ0M?access_token=EwAIA61DBAAU2kADSankulnKv2PwDjfenppNXFIAAXD6OVBLvMSt2hBJeOVohkR5D6v9aWP5qhrclekJbHRCnpMJkV/NKnualJaNeBjSuAd39NsrtZ7BE1QsglWOgXruGbmNZyvBhVtbw2tyi8ZCV9zoyEvDLXwZ71bpGm1bRz35kpnNvc/7I8ISpR41SmiC6G8uUYBNUoFqaLz%2bAV94Cvfjhewly02nIL0aeVuImsUesMNn7cMT0hAyG4xLViapsPFgV6ooV%2bAkK91lIqpb8mequfn4uvwVQMkXMSYtnUw0aaTCYkAOZf6aiw//NgQMSKNIjpFuQ/PCIrdU6rfur5F9ETE1qYJRqcb/mn79K5CQVs1KPconKLcPUWPCPpADZgAACJOq0hWrrjzW2AEFWFrmw7Q369fJEguaMurpiQgY05YeaKhoUhCfRn2yTR2znfCkU3tbb%2bl2Hx9KWHpLVu7aCEX9GHlUmVWbyTNUFlH87tkdRsAAhGGYHrWUtZgj9fLVsB9%2bLR%2bEbjRQoKOA8BUE4DeoBZGDpxeWw3K6JXeFhhpdVm7ASTAdE%2b3baiurZbeQmOi/gGU08EYMsLdsSV6%2bEfIujiM3hZleMNkPUTF6yURXL3wzwlkmzhexlL6wsGXRqokP1BZ2bDWmTUkKbmCXAmkkse/75lXOjYvgw2SwQUtmpAeaJXr0T362MEItJecM8lc10rzU5PS/GT3pZUatgSWEUZnN2Yd0zJxc0rVSu996vTUSRHwgZP%2bWD87wzMNuGViiUcVwUPuIhhRO9lwcCW8NNa/yloag3ujmaae5dAw22Rsr8HxUZGsJeeCpE2NXeMkmMnTFTfFaqJrMYxAMhhA1zFJR4Z/MeLUflQv1SIk39Hba0TnXKisFUPhHlC0AdHTU1tdx77o2z%2bfmBTfIOg3cX9s7uzKaM5jRIbFfs/f75pR/7lS2gue6zIXPTqitwVsesmVs6M%2bD8B2CRcKxvSGaCNrtYNhBNbtVhQ9C4eLoIvq2yV490vYKPjQCHR%2biNt93FAI%3d
+#EXTINF:0 tvg-id="disney" tvg-name="disney" tvg-logo="" group-title="Kids", Disney Channel
+http://14.186.94.163:9981/stream/channelid/1762815611?profile=pass
+
+#EXTINF:0 tvg-id="disneyjunior" tvg-name="disneyjumior" tvg-logo="" group-title="Kids", Disney Junior SD
+http://14.186.94.163:9981/stream/channelid/575673470?profile=pass
+
+#EXTINF:0 tvg-id="disney" tvg-name="disney" tvg-logo="" group-title="Kids", Disney Channel SD
+http://14.186.94.163:9981/stream/channelid/269261751?profile=pass
 
 #EXTINF:0 tvg-name="VOV1" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov.png" group-title="Radio", VOV1 
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w176379961.m3u8
