@@ -119,28 +119,28 @@ https://l175kddht.vtvgiaitri.vn/vtv09/vtv09@720p.m3u8
 #EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV FPT 720p", VTV1 HD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://mytv.com.vn/upload/channel/2.png" group-title="VTV Giai Tri 720p", VTV2 HD
+#EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://mytv.com.vn/upload/channel/2.png" group-title="VTV FPT 720p", VTV2 HD
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VTV Giai Tri 720p", VTV3 HD
+#EXTINF:0 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VTV FPT 720p", VTV3 HD
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV Giai Tri 720p", VTV4 HD
+#EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV FPT 720p", VTV4 HD
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://mytv.com.vn/upload/channel/5.png" group-title="VTV Giai Tri 720p", VTV5 HD
+#EXTINF:0 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://mytv.com.vn/upload/channel/5.png" group-title="VTV FPT 720p", VTV5 HD
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VTV Giai Tri 720p", VTV6 HD
+#EXTINF:0 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VTV FPT 720p", VTV6 HD
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png" group-title="VTV Giai Tri 720p", VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png" group-title="VTV FPT 720p", VTV7 HD
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV Giai Tri 720p", VTV8 HD
+#EXTINF:0 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV FPT 720p", VTV8 HD
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV Giai Tri 720p", VTV9 HD
+#EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV FPT 720p", VTV9 HD
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://imgur.com/Pc2ZuX0.png" group-title="VTC FPT ", VTC1
@@ -1396,4 +1396,3 @@ https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="æ–°å”äººäºšå¤ª, æ–°å”äººäºšå¤ªè‡º" tvg-name="æ–°å”äººäºšå¤ª, æ–°å”äººäºšå¤ªè‡º" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnowplayer.now.com%2Ftvguide%2Fchanneldetail%2F368%2F1&psig=AOvVaw1eHCy3NEVCdhVoVlpR96kS&ust=1630383512564000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCC94Py1_ICFQAAAAAdAAAAABAD" group-title="Hong Kong & Taiwan", HKSTV  
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
-
