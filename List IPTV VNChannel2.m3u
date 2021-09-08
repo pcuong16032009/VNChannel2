@@ -152,7 +152,7 @@ https://l175kddht.vtvgiaitri.vn/vtv02/vtv02@72p.m3u8
 #EXTINF:0 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VTV Giải Trí 720p", VTV3
 https://l175kddht.vtvgiaitri.vn/vtv03/vtv03@720p.m3u8
 
-#EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV Giai Tri 720p", VTV4
+#EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV Giải Trí 720p", VTV4
 https://l175kddht.vtvgiaitri.vn/vtv04/vtv04@720p.m3u8
 
 #EXTINF:0 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://mytv.com.vn/upload/channel/5.png" group-title="VTV Giải Trí 720p", VTV5
@@ -662,7 +662,7 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="binhduong2" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/117.png", Bình Duong 2 HD
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 group-title="Ðị phuong" tvg-logo="http://vthanhtivi.cf/ic/118.png", Bình Duong 3 HD
+#EXTINF:0 group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/118.png", Bình Duong 3 HD
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="binhduong4" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/119.png", Bình Duong 4 HD
@@ -755,7 +755,7 @@ https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="hoabinh" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/148.png", Hòa Bình
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="hungyen" group-title="Ð?a phuong" tvg-logo="http://vthanhtivi.cf/ic/149.png", Hung Yên HD
+#EXTINF:0 tvg-id="hungyen" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/149.png", Hung Yên HD
 http://103.90.220.236/hytvlive/tv1live.m3u8
 
 #EXTINF:0 tvg-id="khanhhoa" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/150.png", Khánh Hòa HD
@@ -905,7 +905,7 @@ http://14.186.94.163:9981/stream/channelid/1262443672?profile=pass
 #EXTINF:0 group-title="MyTV", Mosaic 1
 http://14.186.94.163:9981/stream/channelid/1718846942?profile=pass
 
-#EXTINF:0 group-title="MyTV:, Mosaic 2
+#EXTINF:0 group-title="MyTV", Mosaic 2
 http://14.186.94.163:9981/stream/channelid/1025770499?profile=pass
 
 #EXTINF:0 tvg-id="axnhd" tvg-name="axnhd" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png" group-title="QNET", AXN
@@ -1068,7 +1068,7 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" tvg-name="boxmovie1" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068845352.png" group-title="Movies", Box Movies 
-http://gg.gg/cocaboxmo|Referer=http://sctvonline.vn/
+http://171.250.96.68:8080/live/boxmovie1/index.m3u8?token=PMcYBOTxKHR5abDXyo5D3g&e=1631117901
 
 EXTINF:0 tvg-id="hollywoodclassics" tvg-name="hollywood-classics" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg" group-title="Movies", Hollywood Classics 
 https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&expires=2556118740|Referer=http://sctvonline.vn/
