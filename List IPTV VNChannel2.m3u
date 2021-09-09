@@ -1041,7 +1041,7 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" tvg-name="boxmovie1" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068845352.png" group-title="Movies", Box Movies 
-https://drm-web.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist_w1644239749_b1692000.m3u8?uid=03447494x24474z584x506&mytokenstarttime=1631176335&cid=244
+https://drm-web.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist_w1644239749_b1692000.m3u8
 
 EXTINF:0 tvg-id="hollywoodclassics" tvg-name="hollywood-classics" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg" group-title="Movies", Hollywood Classics 
 https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&expires=2556118740|Referer=http://sctvonline.vn/
