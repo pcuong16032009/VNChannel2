@@ -623,7 +623,7 @@ https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="baclieu" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/113.png", Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
 
-#EXTINF:0 tvg-id="TH B?n Tre" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/114.png", Bến Tre
+#EXTINF:0 tvg-id="TH Bến Tre" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/114.png", Bến Tre
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 
 #EXTINF:0 tvg-id="binhdinh" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/115.png", Bình Ðịnh HD
@@ -1186,6 +1186,9 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 
 #EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network 4K
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31031?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="dreamworks" tvg-name="Dreamworks HD" tvg-logo="https://www.kindpng.com/picc/m/73-730535_dreamworks-logo-svg-hd-png-download.png" group-title="Kids", Dreamworks 
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="animaxhd" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids", Animax 
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
