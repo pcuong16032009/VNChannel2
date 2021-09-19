@@ -533,8 +533,8 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W
 #EXTINF:0 tvg-id="vtvcab17hd" tvg-name="vtvcab17hd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/34/Yeah1TV.png" group-title="VTVCab", VTVCab 17 - Yeah1 TV 
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="vtvcab23hd" tvg-name="vtvcab23hd" tvg-logo="http://vthanhtivi.cf/ic/33.png" group-title="Sports", VTVCab 23 - On Golf 
-http://14.186.94.163:9981/stream/channelid/1093732346?profile=pass
+#EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://vthanhtivi.cf/ic/28.png", On Sports News Premium
+http://cunbabyshop.xyz/vtvcab18/mpegts
 
 #EXTINF:0 tvg-id="vtvcab19hd" tvg-name="vtvcab19hd" tvg-logo="vtvcab19_kenh_phim" group-title="VTVCab", VTVCab 19 - Vie Dramas 
 http://gg.gg/VNChannel2vtvcab19
@@ -544,6 +544,9 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1
 
 EXTINF:0 tvg-name="vtvcab22hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlvZxkJjNO1kJhip7AmvtHR_inf0olgnm0g&usqp=CAU" group-title="VTVCab", VTVCab 22 
 http://hoaudp.vinaddns.com:9981/stream/channelid/1374568825?ticket=58569632A68E1EC3565CC7F106E9BF9AEF4C5142&profile=pass
+
+#EXTINF:0 tvg-id="vtvcab23hd" tvg-name="vtvcab23hd" tvg-logo="http://vthanhtivi.cf/ic/33.png" group-title="Sports", VTVCab 23 - On Golf 
+http://14.186.94.163:9981/stream/channelid/1093732346?profile=pass
 
 #EXTINF:0 tvg-id="sctv1hd" tvg-name="sctv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/CXV_logo_THVL1.jpg/revision/latest/smart/width/200/height/200?cb=20201129023945&path-prefix=vi" group-title="SCTV", SCTV1 
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
@@ -1004,18 +1007,6 @@ https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.
 #EXTINF:0 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="QNET", Love Nature 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:0 tvg-id="Woman" tvg-name="Woman" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg" group-title="QNET", Woman 
-https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:0 tvg-id="drfithd" tvg-name="dr_fit" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png" group-title="QNET", Dr Fit 
-https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:0 tvg-id="musicbox" tvg-name="box_music" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg" group-title="QNET", Box Music 
-https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:0 tvg-id="Planet Earth" tvg-name="planet_earth" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg" group-title="QNET", Planet Earth 
-https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=http://sctvonline.vn/
-
 #EXTINF:0 tvg-id="weathernews" tvg-name="WeatherNews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEZIJtb5hpwiAq0X5oMwdL3oLBZVFmc8YdQ&usqp=CAU" group-title="QNET", WeatherNews 
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:iptvcat.com
 
@@ -1088,6 +1079,33 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persi
 #EXTINF:0 tvg-id="euronews" tvg-name="Euronews" tvg-logo="data:image/png;base64,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" group-title="United Kingdom", Euronews 
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
+http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
+http://103.195.238.226/hollywood/mpegts
+
+#EXTINF:0 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
+http://103.195.238.226/inthebox/mpegts
+
+#EXTINF:0 tvg-id="boxhits" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
+http://103.195.238.226/boxhits/mpegts
+
+#EXTINF:0 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
+http://103.195.238.226/man/mpegts
+
+#EXTINF:0 tvg-id="Woman" tvg-name="Woman" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg" group-title="In The Box", Woman 
+https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="drfithd" tvg-name="dr_fit" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png" group-title="In The Box", Dr Fit 
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="musicbox" tvg-name="box_music" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg" group-title="In The Box", Box Music 
+https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="Planet Earth" tvg-name="planet_earth" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg" group-title="In The Box", Planet Earth 
+https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=http://sctvonline.vn/
+
 #EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies", Cinema World 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
@@ -1102,6 +1120,12 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" tvg-name="max_by_hbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzsXOnzhDKIpjG1tbBwBGtvyU_EjoHyWB8Q&usqp=CAU" group-title="Movies", Cinemax 
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-name="hbohd" tvg-logo="http://i.imgur.com/wEqQSrc.png" group-title="Movies", HBO ( Asia )
+https://liveorigin01.hbogoasia.com:8443/origin/live/CINEMAX/index.m3u8
+
+#EXTINF:0 tvg-id="cinemaxhd" tvg-name="max_by_hbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzsXOnzhDKIpjG1tbBwBGtvyU_EjoHyWB8Q&usqp=CAU" group-title="Movies", Cinemax ( Asia )
+https://liveorigin01.hbogoasia.com:8443/origin/live/CINEMAX/index.m3u8
 
 #EXTINF:0 tvg-name="hbofamilyhd-asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family 
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
@@ -1133,86 +1157,14 @@ https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="foxsportshd" tvg-name="Foxsportshd" tvg-logo="https://i.ibb.co/j6qwrdv/foxsportslogobyvovanloc.png" group-title="Sports", Fox Sports Australia HD 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports Canada  HD 
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/2179086?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports English 1  HD 
-http://yassooo.com:8080/benAlaa/829293992/80040?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports English 2  HD 
-http://yassooo.com:8080/benAlaa/829293992/80039?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports English 3  HD 
-http://yassooo.com:8080/benAlaa/829293992/80038?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports 1  HD 
-http://yassooo.com:8080/benAlaa/829293992/80048
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports 2  HD 
-http://yassooo.com:8080/benAlaa/829293992/80047
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports 3  HD 
-http://yassooo.com:8080/benAlaa/829293992/80046
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports 4  HD 
-http://yassooo.com:8080/benAlaa/829293992/80083
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports 5  HD 
-http://yassooo.com:8080/benAlaa/829293992/80082
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports 6  HD 
-http://yassooo.com:8080/benAlaa/829293992/80081
-
-#EXTINF:0 tvg-id="beinsports" tvg-name="beinsportscanada" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAVCAMAAABL24HpAAAAclBMVEX///9cLZFaKZB4WKJ5WaJ+YKV+YaZLAIhVH41kOpZYJo98XqXr5/BNC4lQE4pTG4ze2edpQpikkr/49/qLcq7Syt5EAIR0U5/m4u2Ygraun8WzpcmgjbyTfLOCZahfMpPJv9jCt9O6rc1tSZs4AH/y7/XGs/kqAAADEklEQVRIidWW25KjIBCGW3MAiTREBE9o1MT3f8VtFGeSmdqqTeVq/wvtEIoPmr87gfJEOg+nd3Q+HA+fqYQLBGl4S5lIP5I4bNxcvclNk4+U7tzkv+JyhkztAd+GJGkLFQ2KJEG5SiSCnpj+5Jr2UvXxmnVfXVpDwTgYMMWpryOvK5+5sqNvZ6SlmwVMJ2mI+ZxW84xCnAGWHlNdB+UNnmkVXfEXbqad1/WYDeFTqWZt/cMCHJwFgQxd3FDm8m+ummHyHWjGPVg/g5UJarCFt6BVwizMFDU42hFqa4c71EVRwz195ircFuwJ3G8Wzwl2YrrFi27wtnGv7ImL0DIuB9ocWMdlAxUb4cg4lxVYVkHDuBuBKXyAZyjHxXHuzKieuTRhE9e5i6HNArekjcMVi1/c9AoDCsGhkdBQ9hz4KzTrdase7h6SNBEDXNOEQcEpFdYJgbbGF+7umM53xR4zM0SuZqz+dV6ZG18e2SkVgSuuULYgN78yaBsIKfEgIpcXMJdDcnvNc7qzxrKZACYXLPjIdy54vP/iptl66x4F9M5lObhpYZGbTw0w5y5gMdm45MI1iS++Wr7OO/u2pZdZBeedCwl2P7kiYyqrRhi2pmMqfD1vUC2SyE1vXN6uzbqRLy7cbOTerBYxXPKv+6V9Mrb8uN8MBpGKh5kl+broUaQV9Fs5l3BvoCX3unTn0v1iktKh2TPXumV9FxVAFS9YTU9c6LEyFp15qiOYHVcCCvIV8nAwaaGS5Oc7reeBYwaT3LlqNGR1Zxe5cU8bpH10+WKPSVj3dtZmmRjhL99coxSTcste5HZ0TmovnK9+Xo1cw9g0VK+capps1cJF7Hm+Uz8JBc037iFmVQ/M3bp4yZljQzBNgUsbUwvLwG9tnCxWiixMqDaB+UXExssKmr0ULBEnTQDUZeiUeqAnr6gklgajr845vK3dtpyJtePKHRuGKC/hSGIFoPh+0lwVu7goYerf53r+T786f1fo3WSfNzXKD7EitF2jyrdSnTfswz8bmG3FM52P53/W8VodP9KhDAn+A6QEPeqaBY+rAAAAAElFTkSuQmCC" group-title="Sports", Bein Sports 7  HD 
-http://yassooo.com:8080/benAlaa/829293992/80025
-
-#EXTINF:0 tvg-id="beinsportspremium" tvg-name="" tvg-logo="" group-title="Sports", Bein Premium 1  HD 
-http://yassooo.com:8080/benAlaa/829293992/80020
-
-#EXTINF:0 tvg-id="beinsportspremium" tvg-name="" tvg-logo="" group-title="Sports", Bein Premium 2  HD 
-http://yassooo.com:8080/benAlaa/829293992/80019
-
-#EXTINF:0 tvg-id="beinsportspremium" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="Sports", Bein Sports 3 Premium  HD 
-http://yassooo.com:8080/benAlaa/829293992/80104
-
 #EXTINF:0 tvg-id="beinsportsxtra" tvg-name="beinsportsxtra" tvg-logo="data:image/png;base64,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" group-title="Sports", Bein Sports Xtra HD 
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="Sports", Abu Dhabi Sports 1 
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="Sports", Abu Dhabi Sports 2 
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="Sports", Abu Dhabi Sports 3 
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="Sports", Abu Dhabi Sports 4 
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/proxy/Tla_nDVRKZB6DP-cxWDXvQeEtF9VmxhfczCJBw-52YuTaBKOQJtOgGIcEggoRuWd-MgXvTvlPukkzZPwNzrWMV_zQv_ovLZZ9Awb3uwrj41DbGJq" group-title="Sports", Dubai Racing 
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Dubai Sports 1 
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Dubai Sports 2 
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Dubai Sports 3 
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-#EXTINF:0 tvg-id="skysportsaction" tvg-name="skysportsaction" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png" group-title="United Kingdom", Sky Sports Action
-http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/230363?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="espn" tvg-name="espn" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="Sports", ESPN 
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31034?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network 
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network 4K
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31031?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="dreamworks" tvg-name="Dreamworks HD" tvg-logo="https://www.kindpng.com/picc/m/73-730535_dreamworks-logo-svg-hd-png-download.png" group-title="Kids", Dreamworks 
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
@@ -1239,7 +1191,6 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-
 https://c.mjh.nz/101002210222/?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="aniplus" tvg-name="Aniplus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-9yk58wX5sKXKZv8S9KfAQKsR46wvkFd3g&usqp=CAU" group-title="Kids", Aniplus
-
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:0 tvg-id="at-x" tvg-name="AT-X" tvg-logo="data:image/png;base64,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" group-title="Kids", AT-X
@@ -1575,45 +1526,6 @@ https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b50
 #EXTINF:0 tvg-id="" tvg-name="CBS46atlanta" tvg-logo="" group-title="USA", CBS 46 Atlanta 
 https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
 
-#EXTINF:0 tvg-id="fox10phoenix" tvg-name="fox10phoenix" tvg-logo="" group-title="USA", Fox 10 Phoenix 
-https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="fox11losangels" tvg-logo="" group-title="USA", Fox 11 Los Angels 
-https://lnc-kttv-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="fox2sanfransisco" tvg-name="fox2sanfransisco" tvg-logo="" group-title="USA", Fox 2 San Fransisco 
-https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="fox26houston" tvg-logo="" group-title="USA", Fox 26 Houston 
-https://lnc-kriv-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="fox28savannah" tvg-name="fox28savannah" tvg-logo="" group-title="USA", Fox 28 Savannah 
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="fox29philadelphia" tvg-logo="" group-title="USA", Fox 11 Los Angels 
-https://lnc-kttv-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="fox2sanfransisco" tvg-name="fox2sanfransisco" tvg-logo="" group-title="USA", Fox 29 Philadelphia 
-https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="fox35orlando" tvg-logo="" group-title="USA", Fox 35 Orlando 
-https://lnc-wofl-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="fox32chicago" tvg-name="fox32chicago" tvg-logo="" group-title="USA", Fox 32 Chicago 
-https://lnc-wfld-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="fox5atlanta" tvg-logo="" group-title="USA", Fox 5 Atlanta 
-https://lnc-waga-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="fox5newyork" tvg-name="fox5newyork" tvg-logo="" group-title="USA", Fox 5 New York 
-https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="fox5washingtondc" tvg-logo="" group-title="USA", Fox 5 Washington DC 
-https://lnc-wttg-fox-aws.tubi.video/index.m3u8
-
-#EXTINF:0 tvg-id="fox7austin" tvg-name="fox7austin" tvg-logo="" group-title="USA", Fox 7 Austin 
-https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="fox7miami" tvg-logo="" group-title="USA", Fox 7 Miami 
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
 
@@ -1640,18 +1552,3 @@ https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="æ–°å”äººäºšå¤ª, æ–°å”äººäºšå¤ªè‡º" tvg-name="æ–°å”äººäºšå¤ª, æ–°å”äººäºšå¤ªè‡º" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnowplayer.now.com%2Ftvguide%2Fchanneldetail%2F368%2F1&psig=AOvVaw1eHCy3NEVCdhVoVlpR96kS&ust=1630383512564000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCC94Py1_ICFQAAAAAdAAAAABAD" group-title="Hong Kong & Taiwan", HKSTV  
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 group-title="Vòng loại World Cup" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 1
-https://livecdn.fptplay.net/hdevent/worldcup01_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 group-title="Vòng loại World Cup" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 2
-https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 group-title="Vòng loại World Cup" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 3
-https://livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 group-title="Vòng loại World Cup" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 4
-https://livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 group-title="Vòng loại World Cup" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 5
-https://livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
