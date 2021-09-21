@@ -1109,8 +1109,8 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-
 #EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies", Cinema World 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="foxmovieshd" tvg-name="Fox Family Movie HD" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png" group-title="Movies", Fox Family Movies HD 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="foxfamilymovieshd" tvg-name="Fox Family Movie HD" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png" group-title="Movies", Fox Family Movies HD 
+http://103.195.239.138/foxfamily/mpegts
 
 #EXTINF:0 tvg-id="fox_movies" tvg-name="Fox Movies HD" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png" group-title="Movies", Fox Movies HD 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -1201,6 +1201,9 @@ http://14.186.94.163:9981/stream/channelid/155199642?profile=pass
 
 #EXTINF:0 tvg-id="disney" tvg-name="disney" tvg-logo="" group-title="Kids", Disney Channel
 http://14.186.94.163:9981/stream/channelid/1762815611?profile=pass
+
+#EXTINF:0 tvg-id="disney" tvg-name="disney" tvg-logo="" group-title="Kids", Disney Channel (Server 2 )
+http://103.195.239.138/disney/mpegts
 
 #EXTINF:0 tvg-id="disneyjunior" tvg-name="disneyjumior" tvg-logo="" group-title="Kids", Disney Junior SD
 http://14.186.94.163:9981/stream/channelid/575673470?profile=pass
