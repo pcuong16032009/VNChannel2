@@ -203,6 +203,30 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" tvg-name="HTV The Thao" tvg-logo="https://lh3.googleusercontent.com/proxy/g4LobpWFsgt6af5yGUD9pIJqHAo_febBEwmmjh0sU6tIjQ-vuzwg96diFpeJvALSj_QvsHaT245qoa3KRlAC2llHUkFzhwnTdvgUm1DvMc6nQ19KaSeqcA" group-title="HTV FPT", HTV Thể Thao 
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="htv1" group-title="HTV Vieon" tvg-logo="", HTV1 SD
+https://live-vthcm.vieon.vn/htv_drm/live/htv1/TV_HD/htv1_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV Vieon" tvg-logo="", HTV2 HD
+https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htv3 group-title="HTV Vieon" tvg-logo="", HTV3 SD
+https://live-vthcm.vieon.vn/htv_drm/live/htv3/TV_HD/htv3_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV Vieon" tvg-logo="", HTV Key
+https://live-vthcm.vieon.vn/htv_drm/live/htv_key/TV_HD/htv_key_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV Vieon" tvg-logo="", HTV7 HD
+https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV Vieon" tvg-logo="", HTV9 HD
+https://live-vthcm.vieon.vn/htv_drm/live/htv9/TV_HD/htv9_1080p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvthethaohd" group-title="HTV Vieon" tvg-logo="", HTV Thể Thao HD
+https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvc_coop" group-title="HTV Vieon" tvg-logo="", HTV Co.op HD
+https://live-vthcm.vieon.vn/htv_drm/live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
+
 #EXTINF:0 tvg-id="htvc_coop" group-title=HTV FPT" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV Co.op
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
@@ -265,6 +289,36 @@ https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="htvcfbnc" group-title="HTVC FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png", FBNC FPT
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
+
+#EXTINF:-1  tvg-id="htvc_thuan_viet_hd" group-title="HTVC Vieon" tvg-logo="", HTVC Thuần Việt  HD
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet/TV_HD/htvc_thuan_viet_1080p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvc_thuan_viet" group-title="HTVC Vieon" tvg-logo="", HTVC Thuần Việt SD
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet_sd/TV_HD/htvc_thuan_viet_sd_480p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvcplushd" group-title="HTVC Vieon" tvg-logo="", HTVC PLUS
+https://live-vthcm.vieon.vn/htv_drm/live/htvc/TV_HD/htvc_1080p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvcdulichhd" group-title="HTVC Vieon" tvg-logo="", HTVC Du Lịch
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_du_lich_cuoc_song/TV_HD/htvc_du_lich_cuoc_song_480p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvccanhachd" group-title="HTVC Vieon" tvg-logo="", HTVC Ca Nhạc
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_ca_nhac/TV_HD/htvc_ca_nhac_1080p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvcphimhd" group-title="HTVC Vieon" tvg-logo="", HTVC Phim
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvcgiadinhhd" group-title="HTVC Vieon" tvg-logo="", HTVC Gia Đình
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_gia_dinh/TV_HD/htvc_gia_dinh_1080p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvcphunuhd" group-title=HTVC Vieon"" tvg-logo="", HTVC Phụ Nữ
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_phu_nu/TV_HD/htvc_phu_nu_1080p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="HTVC Shopping" group-title="HTVC Vieon" tvg-logo="", HTVC Shopping
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_mua_sam_tieu_dung/TV_HD/htvc_mua_sam_tieu_dung_480p/chunks.m3u8
+
+#EXTINF:-1  tvg-id="htvcfbnc" group-title="HTVC Vieon" tvg-logo="", HTVC FBNC
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_fbnc/TV_HD/htvc_fbnc_1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd" tvg-name="vtvcab1hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Vie_Gi%E1%BA%A3i_Tr%C3%AD.png/revision/latest/scale-to-width-down/340?cb=20191126050457" group-title="VTVCab", VTVCab1 Vie Giải Trí 
 http://gg.gg/VNChannel2vtvcab1
@@ -396,10 +450,10 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd2/index.m3u8?md5=AxvpNDs0N57n
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/239.png", SCTV Phim Tổng Hợp
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd2/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd2/index.m3u8?|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="btv5hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/238.png", BTV5 HD
-https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-name="hanoicab1" tvg-logo="https://i.imgur.com/eIbgrWr.png" group-title="HanoiCab", HanoiCab1-HITV 
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
@@ -746,18 +800,6 @@ https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0 tvg-id="blueantext" tvg-name="Blue Ant Extreme" tvg-logo="https://i.ibb.co/RBVkmhz/Blue-ant-extremelogobyvovanloc.png" group-title="QNET", Blue Ant Extreme
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="foxhd" tvg-name="Fox HD" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png" group-title="QNET", Fox HD 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-
-#EXTINF:0 tvg-id="foxlifehd" tvg-name="Fox Life HD" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png" group-title="QNET", Fox Life HD 
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="ngphd" tvg-name="National Geographic HD" tvg-logo="https://i.ibb.co/F8J2zvg/National-Geographic-Channellogobyvovanloc.png" group-title="QNET", National Geographic HD 
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="ngwhd" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.ibb.co/10r9SJT/natgeowildlogobyvovanloc.png" group-title="QNET", Nat Geo Wild HD 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-
 #EXTINF:0 tvg-name="Nasa TV" tvg-logo="https://i.ibb.co/G9xvRJZ/nasalogobyvovanloc.png" group-title="QNET", NASA TV 
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -887,14 +929,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http:/
 #EXTINF:0 tvg-id="Planet Earth" tvg-name="planet_earth" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg" group-title="In The Box", Planet Earth 
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", Hollywood Classics
+http://115.77.246.203:8080/live/hollywoodclassics/index.m3u8?token=o6iltWNPkTzoSuh1QqquFA&e=1633025193|Referer:tvmienphi.tv
+
 #EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies", Cinema World 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="foxfamilymovieshd" tvg-name="Fox Family Movie HD" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png" group-title="Movies", Fox Family Movies HD 
-http://103.195.239.138/foxfamily/mpegts
-
-#EXTINF:0 tvg-id="fox_movies" tvg-name="Fox Movies HD" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png" group-title="Movies", Fox Movies HD 
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-name="hbohd" tvg-logo="http://i.imgur.com/wEqQSrc.png" group-title="Movies", HBO 
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -914,9 +953,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:0 tvg-id="hbohitshd-asia" tvg-name="hbohits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="Movies", HBO Hits 
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
-#EXTINF:0 tvg-name="hbopremiumhd" tvg-logo="" group-title="Movies", HBO Premium 
-https://s.vdo.ai/vhs/1.m3u8
-
 #EXTINF:0 tvg-id="hbosignaturehd-asia tvg-name="hbosignature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" group-title="Movies", HBO Signature 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
@@ -928,6 +964,7 @@ https://6721.liveplay.now.qq.com/live/6721_8d905a455ba289dcf7fe70d8d613ff6d.m3u8
 
 #EXTINF:0 tvg-id="foxsportshd" tvg-name="Foxsportshd" tvg-logo="https://i.ibb.co/j6qwrdv/foxsportslogobyvovanloc.png" group-title="Sports", Fox Sports HD 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
+
 #EXTINF:0 tvg-id="foxsports2hd" tvg-name="Foxsports2hd" tvg-logo="https://i.ibb.co/5cZryj5/foxsports2logobyvovanloc.png" group-title="Sports", Fox Sports 2  HD 
 https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
 
@@ -965,7 +1002,7 @@ https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="happykids" tvg-name="happykidshd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU" group-title="Kids", Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="abckidsaustralia" tvg-name="ABC Kids Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ABC_Kids_Logo_2020.png" group-title="Kids", ABC Kids Australia
 https://c.mjh.nz/101002210222/?checkedby:iptvcat.com
