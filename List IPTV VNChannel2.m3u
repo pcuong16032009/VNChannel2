@@ -201,7 +201,7 @@ https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="htvthethaohd" tvg-name="HTV The Thao" tvg-logo="https://lh3.googleusercontent.com/proxy/g4LobpWFsgt6af5yGUD9pIJqHAo_febBEwmmjh0sU6tIjQ-vuzwg96diFpeJvALSj_QvsHaT245qoa3KRlAC2llHUkFzhwnTdvgUm1DvMc6nQ19KaSeqcA" group-title="HTV FPT", HTV Thể Thao 
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV Vieon" tvg-logo="", HTV1 SD
 https://live-vthcm.vieon.vn/htv_drm/live/htv1/TV_HD/htv1_480p/chunks.m3u8
@@ -399,7 +399,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd2/index.m3u8|Referer=http://sc
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="scv6hd" tvg-name="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d0/SNTV_sctv6_logo_2008.2017.png/revision/latest/scale-to-width-down/340?cb=20201010114942&path-prefix=vi" group-title="SCTV", SCTV6 
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="sctv7hd" tvg-name="sctv7hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/SHOW_TV_%28SCTV7%29_logo.png/revision/latest/scale-to-width-down/340?cb=20201016102705&path-prefix=vi" group-title="SCTV", SCTV7 
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
