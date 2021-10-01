@@ -399,7 +399,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd2/index.m3u8|Referer=http://sc
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="scv6hd" tvg-name="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d0/SNTV_sctv6_logo_2008.2017.png/revision/latest/scale-to-width-down/340?cb=20201010114942&path-prefix=vi" group-title="SCTV", SCTV6 
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://livecdn.fptplay.net/hda/fim360_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="sctv7hd" tvg-name="sctv7hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/SHOW_TV_%28SCTV7%29_logo.png/revision/latest/scale-to-width-down/340?cb=20201016102705&path-prefix=vi" group-title="SCTV", SCTV7 
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
