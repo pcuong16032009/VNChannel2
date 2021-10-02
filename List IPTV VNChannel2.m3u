@@ -746,33 +746,6 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1885360669.m3u8
 #EXTINF:0 tvg-name="Luraco TV" tvg-logo="https://www.viettv24.com/main/images/luracotv_logo.jpg" group-title="Truyen Hinh Hai Ngoai", Luraco TV
 https://fr-1.galaxyott.com/viettv24/streamer/luraco/luraco/luraco_4/chunks.m3u8
 
-#EXTINF:0 tvg-name=" tvg-logo="" group-title="MyTV", 801
-http://14.186.94.163:9981/stream/channelid/1950703656?profile=pass
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="MyTV", 802
-http://14.186.94.163:9981/stream/channelid/1076597491?profile=pass
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="MyTV", 803
-http://14.186.94.163:9981/stream/channelid/1270255302?profile=pass
-
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="MyTV", 804
-http://14.186.94.163:9981/stream/channelid/239265896?profile=pass
-
-#EXTINF:0 group-title="MyTV", MyTV Giới Thiệu Chương Trình
-http://14.186.94.163:9981/stream/channelid/776429017?profile=pass
-
-#EXTINF:0 group-title="MyTV", MyTV Quảng Cáo
-http://14.186.94.163:9981/stream/channelid/2088251579?profile=pass
-
-#EXTINF:0 group-title="MyTV", Meliã Hotels International
-http://14.186.94.163:9981/stream/channelid/1262443672?profile=pass
-
-#EXTINF:0 group-title="MyTV", Mosaic 1
-http://14.186.94.163:9981/stream/channelid/1718846942?profile=pass
-
-#EXTINF:0 group-title="MyTV", Mosaic 2
-http://14.186.94.163:9981/stream/channelid/1025770499?profile=pass
-
 #EXTINF:0 tvg-id="axnhd" tvg-name="axnhd" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png" group-title="QNET", AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -822,10 +795,16 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="paramouthd" tvg-name="Paramount Network" tvg-logo="https://i.ibb.co/jrFY82v/Paramount-Networklogobyvovanloc.png" group-title="QNET", Paramount Network 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_b1596000.m3u8
 
 #EXTINF:0 tvg-id="tlchd" tvg-name="TLC" tvg-logo="https://i.ibb.co/yqybFxh/TLClogobyvovanloc.png" group-title="QNET", TLC 
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="dmax" group-title="QNET" tvg-logo="https://vthanh.xyz/ic/186.png", DMAX
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+
+#EXTINF:0 tvg-id="ngwhd" group-title="QNET" tvg-logo="https://vthanh.xyz/ic/226.png", Nat Geo Wild HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="QNET", Love Nature 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -851,10 +830,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:0 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXilW1e_ukyZDwg1Q6vrz3IteH7_yjby17Uw&usqp=CAU" group-title="News", CNN 
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
-#EXTINF:0 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXilW1e_ukyZDwg1Q6vrz3IteH7_yjby17Uw&usqp=CAU" group-title="News", CNN Indonesia
+#EXTINF:0 tvg-id="" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXilW1e_ukyZDwg1Q6vrz3IteH7_yjby17Uw&usqp=CAU" group-title="News", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXilW1e_ukyZDwg1Q6vrz3IteH7_yjby17Uw&usqp=CAU" group-title="News", CNN Philippines
+#EXTINF:0 tvg-id="" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXilW1e_ukyZDwg1Q6vrz3IteH7_yjby17Uw&usqp=CAU" group-title="News", CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://i.ibb.co/V9jNktF/CGTNlogobyvovanloc.png" group-title="News", CGTN 
@@ -912,7 +891,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 http://103.195.238.226/inthebox/mpegts
 
 #EXTINF:0 tvg-id="boxhits" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
-http://103.195.238.226/boxhits/mpegts
+http://103.195.239.138:80/boxhits/mpegts
 
 #EXTINF:0 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
 http://103.195.238.226/man/mpegts
@@ -929,8 +908,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http:/
 #EXTINF:0 tvg-id="Planet Earth" tvg-name="planet_earth" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg" group-title="In The Box", Planet Earth 
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", Hollywood Classics
-http://115.77.246.203:8080/live/hollywoodclassics/index.m3u8?token=o6iltWNPkTzoSuh1QqquFA&e=1633025193|Referer:tvmienphi.tv
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV1 Today Plus
+https://live2cdn.todayplus.com.vn/hdb/smil:vtv1.smil/chunklist_b1596000.m3u8
 
 #EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies", Cinema World 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
@@ -1096,6 +1075,9 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 
 #EXTINF:0 tvg-id="dreamworks" tvg-name="Dreamworks HD" tvg-logo="https://www.kindpng.com/picc/m/73-730535_dreamworks-logo-svg-hd-png-download.png" group-title="Kids", Dreamworks 
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="babytvhd" group-title="Kids" tvg-logo="https://vthanh.xyz/ic/187.png", BabyTV HD
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="animaxhd" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids", Animax 
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
