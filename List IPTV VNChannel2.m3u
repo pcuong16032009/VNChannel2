@@ -1043,6 +1043,21 @@ https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
 #EXTINF:0 tvg-id="espn" tvg-name="espn" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="Sports", ESPN 
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31034?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 1
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 2
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 3
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 4
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 5
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+
 #EXTINF:0 gruop-title="Sports",FPT UEFA 1 
 https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
 
