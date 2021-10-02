@@ -614,7 +614,7 @@ https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:0 tvg-id="haiphongplus" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/146.png", Hải Phòng Plus HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 
-#EXTINF:0 tvg-id="TH H?u Giang" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/147.png", Hậu Giang HD
+#EXTINF:0 tvg-id="TH Hậu Giang" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/147.png", Hậu Giang HD
 https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="hoabinh" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/148.png", Hòa Bình
@@ -909,7 +909,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http:/
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV1 Today Plus
-https://live2cdn.todayplus.com.vn/hdb/smil:vtv1.smil/chunklist_b1596000.m3u8
+https://live2cdn.todayplus.com.vn/hdb/smil:vtv1.smil/chunklist_b1596000.m3u8|Referer:https://todayplus.com.vn/
 
 #EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies", Cinema World 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
