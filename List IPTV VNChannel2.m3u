@@ -1461,58 +1461,46 @@ https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:iptvcat.com
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV1  
-https://cctvkshwh5c.v.kcdnvip.com/live/cdrmcctv1_1/index.m3u8
+http://183.207.248.71/cntv/live1/cctv-1/cctv-1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV2  
-https://cctvkshwh5c.v.kcdnvip.com/live/cdrmcctv2_1/index.m3u8
+http://183.207.248.71/cntv/live1/cctv-2/cctv-2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV3  
-https://cctvalih5c.v.myalicdn.com/live/cdrmcctv3_1td.m3u8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV4  
-https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv4_1_td.m3u8
+http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV5  
-https://cctv5cnchwh5c.v.cdn20.com/live/cdrmcctv5_1/index.m3u8
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV5 +
-https://cctv5txyhwh5c.liveplay.myqcloud.com/live/cdrmcctv5plus_1/index.m3u8
+http://116.199.5.52:8114/00000000/index.m3u8?
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV6  
-https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv6_1_1800/playlist.m3u8
+http://112.25.48.68/live/program/live/cctv6/1300000/mnf.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV7  
-https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv7_1_td.m3u8
+http://112.25.48.68/live/program/live/cctv7/1300000/mnf.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV8  
-https://cctvalih5c.v.myalicdn.com/live/cdrmcctv8_1md.m3u8
+http://112.25.48.68/live/program/live/cctv8/1300000/mnf.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV9  
-https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctvjilu_1_1800/playlist.m3u8
+http://183.207.248.71/cntv/live1/cctv-news/cctv-news
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV10  
-https://cctvkshwh5c.v.kcdnvip.com/live/cdrmcctv10_1/index.m3u8?BR=md&region=beijing
+http://112.25.48.68/live/program/live/cctv10/1300000/mnf.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV11  
-https://cctvkshwh5c.v.kcdnvip.com/live/cdrmcctv11_1/index.m3u8
+http://112.25.48.68/live/program/live/cctv11/1300000/mnf.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV12  
-https://cctvalih5c.v.myalicdn.com/live/cdrmcctv12_1/index.m3u8
+http://112.25.48.68/live/program/live/cctv12/1300000/mnf.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV13  
-https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv13_1/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV14  
-https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv13_1_1800/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV15  
-https://cctvalih5c.v.myalicdn.com/live/cdrmcctv15_1/index.m3u8
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV17  
-https://cctvalih5c.v.myalicdn.com/live/cdrmcctv17_1/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV4 America  
-https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctvamerica_1_1800/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV4 Europe  
-https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctveurope_1/index.m3u8
+http://117.169.120.160:8080/live/HD-4000k-1080P-cctv17/1.m3u8
