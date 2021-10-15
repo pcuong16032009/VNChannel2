@@ -63,31 +63,31 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV Giải Trí ", VTV1  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://mytv.com.vn/upload/channel/2.png" group-title="VTV Giải Trí ", VTV2  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VTV Giải Trí ", VTV3  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV Giải Trí ", VTV4  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://mytv.com.vn/upload/channel/5.png" group-title="VTV Giải Trí ", VTV5  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VTV Giải Trí ", VTV6  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png" group-title="VTV Giải Trí ", VTV7  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV Giải Trí ", VTV8  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV Giải Trí ", VTV9  Full HD
-https://l175kddht.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
+https://kderr9rud.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://imgur.com/Pc2ZuX0.png" group-title="VTC FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTC1
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
@@ -95,7 +95,7 @@ https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://imgur.com/1FccD2h.png" group-title="VTC FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8, VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://imgur.com/vemNwkI.png" group-title="VTC FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC3 
+#EXTINF:0 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://imgur.com/vemNwkI.png" group-title="VTC FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC3 
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://imgur.com/0dkRtxJ.png" group-title="VTC FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC4
@@ -203,30 +203,6 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" tvg-name="HTV The Thao" tvg-logo="https://lh3.googleusercontent.com/proxy/g4LobpWFsgt6af5yGUD9pIJqHAo_febBEwmmjh0sU6tIjQ-vuzwg96diFpeJvALSj_QvsHaT245qoa3KRlAC2llHUkFzhwnTdvgUm1DvMc6nQ19KaSeqcA" group-title="HTV FPT", HTV Thể Thao 
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV Vieon" tvg-logo="", HTV1 SD
-https://live-vthcm.vieon.vn/htv_drm/live/htv1/TV_HD/htv1_480p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV Vieon" tvg-logo="", HTV2 HD
-https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htv3 group-title="HTV Vieon" tvg-logo="", HTV3 SD
-https://live-vthcm.vieon.vn/htv_drm/live/htv3/TV_HD/htv3_480p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV Vieon" tvg-logo="", HTV Key
-https://live-vthcm.vieon.vn/htv_drm/live/htv_key/TV_HD/htv_key_480p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV Vieon" tvg-logo="", HTV7 HD
-https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV Vieon" tvg-logo="", HTV9 HD
-https://live-vthcm.vieon.vn/htv_drm/live/htv9/TV_HD/htv9_1080p/chunks.m3u8
-
-#EXTINF:-1  tvg-id="htvthethaohd" group-title="HTV Vieon" tvg-logo="", HTV Thể Thao HD
-https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
-
-#EXTINF:-1  tvg-id="htvc_coop" group-title="HTV Vieon" tvg-logo="", HTV Co.op HD
-https://live-vthcm.vieon.vn/htv_drm/live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
-
 #EXTINF:0 tvg-id="htvc_coop" group-title=HTV FPT" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV Co.op
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
@@ -289,36 +265,6 @@ https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="htvcfbnc" group-title="HTVC FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png", FBNC FPT
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
-
-#EXTINF:0  tvg-id="htvc_thuan_viet_hd" group-title="HTVC Vieon" tvg-logo="", HTVC Thuần Việt  HD
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet/TV_HD/htvc_thuan_viet_1080p/chunks.m3u8
-
-#EXTINF:0  tvg-id="htvc_thuan_viet" group-title="HTVC Vieon" tvg-logo="", HTVC Thuần Việt SD
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet_sd/TV_HD/htvc_thuan_viet_sd_480p/chunks.m3u8
-
-#EXTINF:0  tvg-id="htvcplushd" group-title="HTVC Vieon" tvg-logo="", HTVC PLUS
-https://live-vthcm.vieon.vn/htv_drm/live/htvc/TV_HD/htvc_1080p/chunks.m3u8
-
-#EXTINF:0  tvg-id="htvcdulichhd" group-title="HTVC Vieon" tvg-logo="", HTVC Du Lịch
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_du_lich_cuoc_song/TV_HD/htvc_du_lich_cuoc_song_480p/chunks.m3u8
-
-#EXTINF:0  tvg-id="htvccanhachd" group-title="HTVC Vieon" tvg-logo="", HTVC Ca Nhạc
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_ca_nhac/TV_HD/htvc_ca_nhac_1080p/chunks.m3u8
-
-#EXTINF:0  tvg-id="htvcphimhd" group-title="HTVC Vieon" tvg-logo="", HTVC Phim
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8
-
-#EXTINF:0  tvg-id="htvcgiadinhhd" group-title="HTVC Vieon" tvg-logo="", HTVC Gia Đình
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_gia_dinh/TV_HD/htvc_gia_dinh_1080p/chunks.m3u8
-
-#EXTINF:0  tvg-id="htvcphunuhd" group-title=HTVC Vieon"" tvg-logo="", HTVC Phụ Nữ
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_phu_nu/TV_HD/htvc_phu_nu_1080p/chunks.m3u8
-
-#EXTINF:0  tvg-id="HTVC Shopping" group-title="HTVC Vieon" tvg-logo="", HTVC Shopping
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_mua_sam_tieu_dung/TV_HD/htvc_mua_sam_tieu_dung_480p/chunks.m3u8
-
-#EXTINF:0  tvg-id="htvcfbnc" group-title="HTVC Vieon" tvg-logo="", HTVC FBNC
-https://live-vthcm.vieon.vn/htv_drm/live/htvc_fbnc/TV_HD/htvc_fbnc_1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd" tvg-name="vtvcab1hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Vie_Gi%E1%BA%A3i_Tr%C3%AD.png/revision/latest/scale-to-width-down/340?cb=20191126050457" group-title="VTVCab", VTVCab1 Vie Giải Trí 
 http://gg.gg/VNChannel2vtvcab1
@@ -809,6 +755,9 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="outdoor_channel" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/RJwaiHH.png" group-title="QNET", Outdoor Channel 
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="historyhd" group-title="QNET" tvg-logo="https://vthanh.xyz/ic/189.png", History HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
 #EXTINF:0 tvg-id="paramouthd" tvg-name="Paramount Network" tvg-logo="https://i.ibb.co/jrFY82v/Paramount-Networklogobyvovanloc.png" group-title="QNET", Paramount Network 
 https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_b1596000.m3u8
 
@@ -956,6 +905,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:0 tvg-id="warner_tv_hd" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png" group-title="Movies", Warner TV 
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/R2YV0Xw/images-q-tbn-ANd9-Gc-Q78-FGD14ps-N7-L852-bv-Adt-Ug-Gwz-Vpwqyg-Af-IPa9-Vbp-k-TBgpaf-JGGmc-ST7tyf-UMre.png" group-title="Movies", Star World 
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Conan 
 https://6721.liveplay.now.qq.com/live/6721_8d905a455ba289dcf7fe70d8d613ff6d.m3u8
 
@@ -964,99 +916,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 #EXTINF:0 tvg-id="beinsportsxtra" tvg-name="beinsportsxtra" tvg-logo="data:image/png;base64,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" group-title="Sports", Bein Sports Xtra HD 
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/Qvrphmm/Logo-bein-sports-1.png", Bein Sports 1
-http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/FnDBbg6/Logo-bein-sports-2.png", Bein Sports 2
-http://xcchui2.mrnova.online/live/60130_.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/1qT0P63/Logo-bein-sports-3.png", Bein Sports 3
-http://xcchui2.mrnova.online/live/60131_.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/Z1Vcc3r/Logo-bein-sports-4.png", Bein Sports 4
-http://xcchui2.mrnova.online/live/60132_.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/mtQX4q9Z/bs5.png", Bein Sports 5
-http://xcwsnl28.mrnova.online/live/60097_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/3yLf6vvg/bs6.png", Bein Sports 6
-http://xcwsnl28.mrnova.online/live/60098_.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/K1x98N7P/bs7.png", Bein Sports 7
-http://xcwsnl28.mrnova.online/live/60099_.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/WFF8Hfjv/bsxtra1.png", Bein Sports Xtra 1 
-http://xcchui2.mrnova.online/live/60242_.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/McGdypFX/bs1-premium.png", Bein Sports Premium 1
-http://xcwsnl28.mrnova.online/live/60080_.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/DS6xJX5t/bs2-premium.png", Bein Sports Premium 2
-http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/Lq0vvFcD/bs3-premium.png", Bein Sports Premium 3
-http://xcwsnl28.mrnova.online/live/60092_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png", Bein Sports News 
-http://62.210.251.227:8081/yacinetv/BeinSportNews/chunks.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/3dCBVGMd/bs1-fr.png", Bein Sports Direct 1
-http://5.anfalrou.xyz/live/33523510/index.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://i.postimg.cc/v40vHdZy/bs2-fr.png", Bein Sports Direct 2
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/14
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/1280px-Sky_Sport_1_HD_-_Logo_2015.svg.png", Sky Sports 1
-http://stream.tvtap.live:8081/live/de-sport1.stream/chunks.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png", Sky Rider Cup
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/870
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://tvepg.eu/img/luxembourg/logo/sky_sport_bundesliga_1.png", Sky Bundesliga 1
-http://31.220.41.88:8081/live/de-skybundes1.stream/chunks.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://tvepg.eu/img/germany/logo/sky_sport_bundesliga_2.png", SKY Bundesliga 2
-http://31.220.41.88:8081/live/de-skybundes2.stream/chunks.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png", Sky Sport Football 
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/875
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png", Sky Sports Cricket
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/877
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1200px-Sky_Sport_F1_-_Logo_2018.svg.png", Sky Sports F1
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/876
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg", Sky Sports News
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/874
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Mix_logo.png", Sky Sports Mix
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/873
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://www.thesportsdb.com/images/media/logo/5ow1xp1600613173.png", Sky NFL 
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/879
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png", Sky Sports Main
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/874
-
-#EXTINF:0 tvg-id="" group-title="Sports"tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD-1280x720.png", Sky Premier League
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/871
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/LDyhJCy/Livebongda-tv.png", Sony Ten 1 HD
-https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/LDyhJCy/Livebongda-tv.png", Sony Ten 2 HD
-https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/LDyhJCy/Livebongda-tv.png", Sony Ten 3 HD
-https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/LDyhJCy/Livebongda-tv.png", Sony Ten 4 HD
-http://ux38.gcdn.co/UKS49/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://i.ibb.co/LDyhJCy/Livebongda-tv.png" Sony Ten 6
-https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
 
 #EXTINF:0 tvg-id="espn" tvg-name="espn" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="Sports", ESPN 
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31034?checkedby:iptvcat.com
@@ -1338,25 +1197,28 @@ http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 https://live.playstop.me/1816184091/index.m3u8
 
 #EXTINF:0 tvg-id="itv" tvg-name="itv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="United Kingdom", ITV 
-http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11822?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="itv2" tvg-name="itv2" tvg-logo="" group-title="United Kingdom", ITV 2
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11821?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="itv3" tvg-name="itv3" tvg-logo="data:image/png;base64,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" group-title="United Kingdom", ITV3 
-http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
+#EXTINF:0 tvg-id="itv3" tvg-name="itv3" tvg-logo="" group-title="United Kingdom", ITV3 
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11820?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="itv4" tvg-name="itv4" tvg-logo="data:image/png;base64,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" group-title="United Kingdom", ITV4 
-http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
-
-#EXTINF:0 tvg-id="amcuk" tvg-name="amcuk" tvg-logo="data:image/png;base64,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" group-title="United Kingdom", AMC UK
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38668?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="itv4" tvg-name="itv4" tvg-logo="" group-title="United Kingdom", ITV4 
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11819?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="channel4" tvg-name="Channel4uk" tvg-logo="data:image/png;base64,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" group-title="United Kingdom", Channel 4
-http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/69452?checkedby:iptvcat.com
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11817?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="skynewsarabia" tvg-name="skynewsarabia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png" group-title="United Kingdom", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="United Kingdom", BBC 1
+http://sozare.com:80/75256546F59C/FCF08F088F4D/17402?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="United Kingdom", BBC 2
+http://sozare.com:80/75256546F59C/FCF08F088F4D/27592?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="abc2wbrz" tvg-name="abc2wbrz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/WBRZ_Logo_2013.png/225px-WBRZ_Logo_2013.png" group-title="USA", ABC 2 WPRZ
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?checkedby:iptvcat.com
@@ -1477,6 +1339,21 @@ https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="æ–°å”äººäºšå¤ª, æ–°å”äººäºšå¤ªè‡º" tvg-name="æ–°å”äººäºšå¤ª, æ–°å”äººäºšå¤ªè‡º" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnowplayer.now.com%2Ftvguide%2Fchanneldetail%2F368%2F1&psig=AOvVaw1eHCy3NEVCdhVoVlpR96kS&ust=1630383512564000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCC94Py1_ICFQAAAAAdAAAAABAD" group-title="Hong Kong & Taiwan", HKSTV  
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="",  tvg-name=", " tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/TVB-Jade-Hong-Kong-300x200.jpg" group-title="Hong Kong & Taiwan", TVB Jade  
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:0 tvg-id="",  tvg-name=", " tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="Hong Kong & Taiwan", TVB Pearl  
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+
+#EXTINF:0 tvg-id="",  tvg-name=", " tvg-logo="http://fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" group-title="Hong Kong & Taiwan", TVB Finance  
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+
+#EXTINF:0 tvg-id="",  tvg-name=", " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest?cb=20210722080518" group-title="Hong Kong & Taiwan", TVB News  
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+
+#EXTINF:0 tvg-id="",  tvg-name=", " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/2560px-ViuTV_logo.svg.png" group-title="Hong Kong & Taiwan", ViuTV   
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="China", CCTV1  
 http://183.207.248.71/cntv/live1/cctv-1/cctv-1
