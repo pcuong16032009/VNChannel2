@@ -929,7 +929,7 @@ https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 3
 https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 4
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 4
 https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 5
@@ -961,6 +961,42 @@ https://vips-livecdn.fptplay.net/hdevent/youth01_vhls.smil/chunklist_b5000000.m3
 
 #EXTINF:0 gruop-title="Sports",FPT UEFA Youth 2
 https://vips-livecdn.fptplay.net/hdevent/youth02_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 gruop-title="Sports",Canal+ Sports 2 HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6265.ts
+
+#EXTINF:0 gruop-title="Sports",Eleven Sports UK
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Action
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/2461.ts
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Arena
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11612?checkedby:iptvcat.com
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Cricket
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11611?checkedby:iptvcat.com
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Football
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11616?checkedby:iptvcat.com
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Golf
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11608?checkedby:iptvcat.com
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Main Event
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11615?checkedby:iptvcat.com
+
+#EXTINF:0 gruop-title="Sports",Sky Sports News
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11618?checkedby:iptvcat.com
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Premier League
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11614?checkedby:iptvcat.com
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Racing
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/11613?checkedby:iptvcat.com
+
+#EXTINF:0 gruop-title="Sports",Sky Sports F1
+http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/5707?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network 
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
