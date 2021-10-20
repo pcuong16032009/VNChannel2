@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U  url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1
 
 #EXTM3U Vietnam Channel
 
@@ -614,8 +614,8 @@ http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/164.png", Phú Yên HD
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/165.png", Quảng Bình
-https://isptqrteg4liv.vcdn.cloud/QUANGBINH_HD/master.m3u8
+#EXTINF:0 tvg-id="quangbinh" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/165.png", Quảng Bình
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/166.png", Quảng Nam
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
@@ -854,13 +854,13 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
+EXTINF:0 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
 http://103.195.238.226/inthebox/mpegts
 
 #EXTINF:0 tvg-id="boxhits" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
-http://103.195.239.138:80/boxhits/mpegts
+http://103.195.238.226/boxhits/mpegts
 
-#EXTINF:0 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
+EXTINF:0 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
 http://103.195.238.226/man/mpegts
 
 #EXTINF:0 tvg-id="Woman" tvg-name="Woman" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg" group-title="In The Box", Woman 
@@ -1000,6 +1000,9 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/5707?checkedby:iptvcat.
 
 #EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network 
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 
 #EXTINF:0 tvg-id="dreamworks" tvg-name="Dreamworks HD" tvg-logo="https://www.kindpng.com/picc/m/73-730535_dreamworks-logo-svg-hd-png-download.png" group-title="Kids", Dreamworks 
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
@@ -1378,6 +1381,9 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="",  tvg-name=", " tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/TVB-Jade-Hong-Kong-300x200.jpg" group-title="Hong Kong & Taiwan", TVB Jade  
 https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:0 tvg-id="",  tvg-name=", " tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332" group-title="Hong Kong & Taiwan", TVB J2  
+https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 #EXTINF:0 tvg-id="",  tvg-name=", " tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="Hong Kong & Taiwan", TVB Pearl  
 https://cdn.hkdtmb.com/hls/84/index.m3u8
