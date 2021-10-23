@@ -333,7 +333,7 @@ http://14.186.94.163:9981/stream/channelid/1093732346?profile=pass
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv2hd" tvg-name="sctv2hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png/revision/latest/scale-to-width-down/340?cb=20190716055604" group-title="SCTV", SCTV2 
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://8387d40698.vws.vegacdn.vn/live/netstars/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="sctv3hd" tvg-name="sctv3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/See_TV_HD_SCTV3_HD.png/revision/latest/scale-to-width-down/340?cb=20201212051952&path-prefix=vi" group-title="SCTV", SCTV3
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -671,23 +671,62 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/184.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Que Huong", Duong Hung Vuong
-http://123.25.116.189:8082/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER
-
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://vthanh.xyz/ic/95.png", K+Cine
-https://live-drm.fptplay.net/drmlive/27082021k1_2000.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMTA0MjE4NCwgImNoYW5uZWxfdXJsIjogIjI3MDgyMDIxazFfMjAwMC5zdHJlYW0iLCAiaXNwIjogInZucHQiLCAidGltZXN0YW1wIjogMTYzMzg3NjY5NywgImhhc2hfc2VjcmV0IjogIjIyMDRiYjBmMWY1Y2YwMWIzYmRjMjZmMWFkYjY2YjJmIiwgInJtaXAiOiAiMTQuMTY1LjQuMTA0In0
-
-#EXTINF:0 tvg-id="klifehd" group-title="K+" tvg-logo="https://vthanh.xyz/ic/96.png", K+Life
-https://live-drm.fptplay.net/drmlive/27082021k1ns_2000.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMTA0MjE4NCwgImNoYW5uZWxfdXJsIjogIjI3MDgyMDIxazFuc18yMDAwLnN0cmVhbSIsICJpc3AiOiAidm5wdCIsICJ0aW1lc3RhbXAiOiAxNjMzODc2NTcxLCAiaGFzaF9zZWNyZXQiOiAiNjBiNDUzYmFhZjBjZGMwZDhmZjJkZmJjYzgxODZmNWMiLCAicm1pcCI6ICIxNC4xNjUuNC4xMDQifQ
-
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://vthanh.xyz/ic/97.png", K+Sport 1 (Ace)
-http://127.0.0.1:6878/ace/getstream?id=371a5e5dbb66fff3e23c1b308eaf7cd9cfef9174
-
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://vthanh.xyz/ic/97.png", K+Sport 1 
-https://live-drm.fptplay.net/drmlive/27082021k1pm_2000.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMTA0MjE4NCwgImNoYW5uZWxfdXJsIjogIjI3MDgyMDIxazFwbV8yMDAwLnN0cmVhbSIsICJpc3AiOiAidm5wdCIsICJ0aW1lc3RhbXAiOiAxNjMzODc2MTAzLCAiaGFzaF9zZWNyZXQiOiAiNTAwYWIxYzZiYTRiZWZkMDBjMjk4YjI4NzljZDliNjgiLCAicm1pcCI6ICIxNC4xNjUuNC4xMDQifQ
-
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://vthanh.xyz/ic/98.png", K+Sport 2
-https://live-drm.fptplay.net/drmlive/27082021k1pc_2000.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMTA0MjE4NCwgImNoYW5uZWxfdXJsIjogIjI3MDgyMDIxazFwY18yMDAwLnN0cmVhbSIsICJpc3AiOiAidm5wdCIsICJ0aW1lc3RhbXAiOiAxNjMzODc2NzkxLCAiaGFzaF9zZWNyZXQiOiAiY2QyNTM0MTMzMjc0MjMxNmQ5ZmU4YzM3YzNhNjU2Y2QiLCAicm1pcCI6ICIxNC4xNjUuNC4xMDQifQ
+#EXTINF:0 group-title="K+" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi", K+ Kids
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=D2B8C9E4B5673A8C&Ticket=4D76EDB88B3A915A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi", K+ Cine
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=D2B8C9E4B5673A8C&Ticket=4D76EDB88B3A915A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/524?cb=20211011130056&path-prefix=vi", K+ Life
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=D2B8C9E4B5673A8C&Ticket=4D76EDB88B3A915A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi", K+ Sport 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=D2B8C9E4B5673A8C&Ticket=4D76EDB88B3A915A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/774?cb=20211011130352&path-prefix=vi", K+ Sport 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=D2B8C9E4B5673A8C&Ticket=4D76EDB88B3A915A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="vtvcab16hd" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-1-1630981226852763614647.jpg",ON Football 
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=D2B8C9E4B5673A8C&Ticket=4D76EDB88B3A915A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab16-bongdatv_fps/prod_vtvcab16-bongdatv_fps.isml/prod_vtvcab16-bongdatv_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="vtvcab3hd" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-1-1630981223040446100091.jpg", ON Sports
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=D2B8C9E4B5673A8C&Ticket=4D76EDB88B3A915A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-thethaotv_fps.isml/prod_vtvcab3-thethaotv_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="vtvcab6hd" tvg-logo="https://avg.vn/wp-content/uploads/2021/06/ON-Sports-1024x354.png", ON Sports+
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=D2B8C9E4B5673A8C&Ticket=4D76EDB88B3A915A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mpd
 
 #EXTINF:0 tvg-name="USV Television" tvg-logo="https://www.viettv24.com/main/images/USVtelevision-logo.jpg" group-title="Truyen Hinh Hai Ngoai", USV Television
 https://fr-1.galaxyott.com/viettv24/streamer/vatv/liveChannel/vatv_3/chunks.m3u8
