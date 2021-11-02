@@ -330,16 +330,16 @@ http://hoaudp.vinaddns.com:9981/stream/channelid/1374568825?ticket=58569632A68E1
 http://14.186.94.163:9981/stream/channelid/1093732346?profile=pass
 
 #EXTINF:0 tvg-id="sctv1hd" tvg-name="sctv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/CXV_logo_THVL1.jpg/revision/latest/smart/width/200/height/200?cb=20201129023945&path-prefix=vi" group-title="SCTV", SCTV1 
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv2hd" tvg-name="sctv2hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png/revision/latest/scale-to-width-down/340?cb=20190716055604" group-title="SCTV", SCTV2 
 https://8387d40698.vws.vegacdn.vn/live/netstars/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="sctv3hd" tvg-name="sctv3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/See_TV_HD_SCTV3_HD.png/revision/latest/scale-to-width-down/340?cb=20201212051952&path-prefix=vi" group-title="SCTV", SCTV3
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv4hd" tvg-name="sctv4hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/GChannel.png/revision/latest/scale-to-width-down/340?cb=20200927081619&path-prefix=vi" group-title="SCTV", SCTV4 
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="SCTV 5" tvg-name="SCTV5" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/SCJ_Life_On.png/revision/latest/scale-to-width-down/200?cb=20200409034405&path-prefix=vi" group-title="SCTV", SCTV5 
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
