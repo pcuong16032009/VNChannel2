@@ -824,6 +824,15 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabi
 #EXTINF:0 tvg-id="newsmax" tvg-name="Newsmax" tvg-logo="ttps://i.ibb.co/3Tg9WgV/newsmaxlogobyvovanloc.png" group-title="News", Newsmax 
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="ttps://i.ibb.co/3Tg9WgV/newsmaxlogobyvovanloc.png" group-title="News", CNBC Indonesia 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="ttps://i.ibb.co/3Tg9WgV/newsmaxlogobyvovanloc.png" group-title="News", CNBC TV18 
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="ttps://i.ibb.co/3Tg9WgV/newsmaxlogobyvovanloc.png" group-title="News", CNBC Awaaz 
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
 #EXTINF:0 tvg-id="bbcpersian" tvg-name="bbcpersian" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/persian.png" group-title="News", BBC Persian 
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 
@@ -831,31 +840,31 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persi
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/box-movie/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
 
-EXTINF:0 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8" , In The Box
+#EXTINF:0 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8" , In The Box
 http://103.195.238.226/inthebox/mpegts
 
 #EXTINF:0 tvg-id="boxhits" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/242.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8 , Box Hits
-http://103.195.238.226/boxhits/mpegts
+https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
 
-EXTINF:0 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8" , Man
-http://103.195.238.226/man/mpegts
+#EXTINF:0 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8" , Man
+https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="Woman" tvg-name="Woman" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg" group-title="In The Box" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8" , Woman 
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="drfithd" tvg-name="dr_fit" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png" group-title="In The Box", Dr Fit 
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="musicbox" tvg-name="box_music" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg" group-title="In The Box", Box Music 
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/box-music/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="Planet Earth" tvg-name="planet_earth" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg" group-title="In The Box", Planet Earth 
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/planet-earth/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV1 AVG
 https://8387e1fb5a.vws.vegacdn.vn/live/vtv1/chunklist_2.m3u8
@@ -872,18 +881,11 @@ https://8387e1fb5a.vws.vegacdn.vn/live/vtv4/chunklist_1.m3u8
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV5 AVG
 https://838765eeba.vws.vegacdn.vn/live/vtv5/chunklist_1.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV6 AVG
-#EXT-X-KEY:METHOD=AES-128,URI="https://drm.nethubtv.vn/live/vtv6/vtv6.key",IV=0x4e4e47da54dd4d674c11b3bc7ca90faf
-https://838765eeba.vws.vegacdn.vn/live/vtv6/chunklist_2.m3u8
-
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV7 AVG
 https://8387e1fb5a.vws.vegacdn.vn/live/vtv7/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV8 AVG
 https://8387f03af3.vws.vegacdn.vn/live/vtv8/chunklist_1.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV9 AVG
-https://838765eeba.vws.vegacdn.vn/live/vtv9/chunklist_3.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC1 AVG
 https://8387e1fb5a.vws.vegacdn.vn/live/vtc-1/chunklist_2.m3u8
