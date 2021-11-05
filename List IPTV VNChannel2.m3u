@@ -870,19 +870,67 @@ https://8387e1fb5a.vws.vegacdn.vn/live/vtv3/chunklist_2.m3u8
 https://8387e1fb5a.vws.vegacdn.vn/live/vtv4/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV5 AVG
-https://8387e1fb5a.vws.vegacdn.vn/live/vtv5/chunklist_1.m3u8
+https://838765eeba.vws.vegacdn.vn/live/vtv5/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV6 AVG
-https://8387e1fb5a.vws.vegacdn.vn/live/vtv6/chunklist_2.m3u8
+https://838765eeba.vws.vegacdn.vn/live/vtv6/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV7 AVG
 https://8387e1fb5a.vws.vegacdn.vn/live/vtv7/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV8 AVG
-https://8387e1fb5a.vws.vegacdn.vn/live/vtv8/chunklist_1.m3u8
+https://8387f03af3.vws.vegacdn.vn/live/vtv8/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV9 AVG
-https://8387e1fb5a.vws.vegacdn.vn/live/vtv9/chunklist_3.m3u8
+https://838765eeba.vws.vegacdn.vn/live/vtv9/chunklist_3.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC1 AVG
+https://8387e1fb5a.vws.vegacdn.vn/live/vtc-1/chunklist_2.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC2 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc2/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC3 AVG
+https://8387f03af3.vws.vegacdn.vn/live/vtc3/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC4 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc4/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC5 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc5/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC6 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc6/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC7 AVG
+https://8387e1fb5a.vws.vegacdn.vn/live/vtc7/chunklist_2.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC8 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc8/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC9 AVG
+https://8387f03af3.vws.vegacdn.vn/live/vtc9/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC10 AVG
+https://8387e1fb5a.vws.vegacdn.vn/live/vtc10/chunklist_2.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC11 AVG
+https://8387e1fb5a.vws.vegacdn.vn/live/vtc11/chunklist_2.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC12 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc12/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC13 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc13/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC14 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc14/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTC16 AVG
+https://8387d1dfc2.vws.vegacdn.vn/live/vtc16/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", Quảng Bình AVG
+https://8387f03af3.vws.vegacdn.vn/live/quangbinh/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies", Cinema World 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
