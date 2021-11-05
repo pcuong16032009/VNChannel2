@@ -873,6 +873,7 @@ https://8387e1fb5a.vws.vegacdn.vn/live/vtv4/chunklist_1.m3u8
 https://838765eeba.vws.vegacdn.vn/live/vtv5/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV6 AVG
+#EXT-X-KEY:METHOD=AES-128,URI="https://drm.nethubtv.vn/live/vtv6/vtv6.key",IV=0x4e4e47da54dd4d674c11b3bc7ca90faf
 https://838765eeba.vws.vegacdn.vn/live/vtv6/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV7 AVG
