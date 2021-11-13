@@ -1151,6 +1151,21 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31245
 #EXTINF:0 gruop-title="Sports",NBC Sports Network HD
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/13137
 
+#EXTINF:0 gruop-title="Sports",Sky Sports 1
+http://edge.iptvland.nl:8080/mousa/mousa/191238
+
+#EXTINF:0 gruop-title="Sports",Sky Sports 2
+http://edge.iptvland.nl:8080/mousa/mousa/191239
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Bundesliga 1
+http://edge.iptvland.nl:8080/mousa/mousa/191234
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Austria
+http://edge.iptvland.nl:8080/mousa/mousa/191224
+
+#EXTINF:0 gruop-title="Sports",Sky Sports Cricket
+http://edge.iptvland.nl:8080/mousa/mousa/191897
+
 #EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network 
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -1189,6 +1204,18 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:0 tvg-id="at-x" tvg-name="AT-X" tvg-logo="data:image/png;base64,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" group-title="Kids", AT-X
 https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Disney Channel Canada SD
+http://mains.services:2086/nick5404/9928627/3261?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Disney Channel UK
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1844?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Disney Channel US
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/321?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Cartoon Network Canada
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/321?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-name="VOV1" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov.png" group-title="Radio", VOV1 
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist.m3u8
@@ -1388,15 +1415,29 @@ http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:0 tvg-id="iraninternational" tvg-name="iraninternational" tvg-logo="" group-title="United Kingdom", Iran International 
 https://live.playstop.me/1816184091/index.m3u8
 
-EXTINF:0 tvg-id="itv" tvg-name="itv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="United Kingdom", ITV 
+#EXTINF:0 tvg-id="itv" tvg-name="itv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="United Kingdom", ITV 
+http://mains.services:2086/nick5404/9928627/66991?checkedby:iptvcat.com
 
-EXTINF:0 tvg-id="itv2" tvg-name="itv2" tvg-logo="" group-title="United Kingdom", ITV 2
+#EXTINF:0 tvg-id="itv2" tvg-name="itv2" tvg-logo="" group-title="United Kingdom", ITV 2+1
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/131773?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-id="itv3" tvg-name="itv3" tvg-logo="" group-title="United Kingdom", ITV3+1
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/87276?checkedby:iptvcat.com
 
-EXTINF:0 tvg-id="itv3" tvg-name="itv3" tvg-logo="" group-title="United Kingdom", ITV3 
+#EXTINF:0 tvg-id="itv4" tvg-name="itv4" tvg-logo="" group-title="United Kingdom", ITV2 
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11113?checkedby:iptvcat.com
 
-EXTINF:0 tvg-id="itv4" tvg-name="itv4" tvg-logo="" group-title="United Kingdom", ITV4 
+#EXTINF:0 tvg-id="itv4" tvg-name="itv4" tvg-logo="" group-title="United Kingdom", ITV3 
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11112?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-id="itv4" tvg-name="itv4" tvg-logo="" group-title="United Kingdom", ITV4 
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1039?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="itv4" tvg-name="itv4" tvg-logo="" group-title="United Kingdom", BBC 1 
+http://93.152.174.144:4000/play/bbc1/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="itv4" tvg-name="itv4" tvg-logo="" group-title="United Kingdom", BBC 2 
+http://mains.services:2086/nick5404/9928627/90876?checkedby:iptvcat.com
 
 EXTINF:0 tvg-id="channel4" tvg-name="Channel4uk" tvg-logo="data:image/png;base64,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" group-title="United Kingdom", Channel 4
 
@@ -1607,3 +1648,15 @@ https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/index_48_a-b.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Australia", ABC Radio Sydney 
 https://abcradiolivehls-lh.akamaihd.net/i/localsydney_1@327264/index_48_a-p.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia", Astro Awani 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia", Astro Ceria 
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia", Astro Oasis 
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia", Astro Shuang Xing 
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8?checkedby:iptvcat.com
