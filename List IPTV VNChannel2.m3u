@@ -66,28 +66,28 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://kderr9rud.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://mytv.com.vn/upload/channel/2.png" group-title="VTV Giải Trí ", VTV2  Full HD
-https://kderr9rud.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
+https://aq6ax61aq.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VTV Giải Trí ", VTV3  Full HD
-https://kderr9rud.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
+https://aq6ax61aq.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://mytv.com.vn/upload/channel/4.png" group-title="VTV Giải Trí ", VTV4  Full HD
-https://kderr9rud.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
+https://aq6ax61aq.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://mytv.com.vn/upload/channel/5.png" group-title="VTV Giải Trí ", VTV5  Full HD
-https://kderr9rud.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
+https://aq6ax61aq.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VTV Giải Trí ", VTV6  Full HD
-https://kderr9rud.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
+https://aq6ax61aq.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png" group-title="VTV Giải Trí ", VTV7  Full HD
-https://kderr9rud.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
+https://aq6ax61aq.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV Giải Trí ", VTV8  Full HD
-https://kderr9rud.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
+https://aq6ax61aq.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV Giải Trí ", VTV9  Full HD
-https://kderr9rud.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
+https://aq6ax61aq.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://imgur.com/Pc2ZuX0.png" group-title="VTC FPT" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc1-hd&time=${start}", VTC1
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
@@ -755,6 +755,9 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="ngwhd" group-title="QNET" tvg-logo="https://vthanh.xyz/ic/226.png", Nat Geo Wild HD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:0 tvg-id="Hits" group-title="QNET" tvg-logo="https://vthanh.xyz/ic/226.png", Hits
+http://103.214.9.53/hits/mpegts
+
 #EXTINF:0 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="QNET", Love Nature 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
@@ -839,14 +842,14 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persi
 #EXTINF:0 tvg-id="euronews" tvg-name="Euronews" tvg-logo="data:image/png;base64,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" group-title="United Kingdom", Euronews 
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
+#EXTINF:0 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-movie/chunklist_2_${start}.m3u8", Box Movie 1
 https://8387100975.vws.vegacdn.vn/live/box-movie/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8" , In The Box
-http://103.195.238.226/inthebox/mpegts
+https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="boxhits" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/242.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8 , Box Hits
 https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
@@ -860,10 +863,10 @@ https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2.m3u8
 #EXTINF:0 tvg-id="drfithd" tvg-name="dr_fit" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png" group-title="In The Box", Dr Fit 
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="musicbox" tvg-name="box_music" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg" group-title="In The Box", Box Music 
+#EXTINF:0 tvg-id="musicbox" tvg-name="box_music" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg" group-title="In The Box" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-music/chunklist_2_${start}.m3u8", Box Music 
 https://8387100975.vws.vegacdn.vn/live/box-music/chunklist_2.m3u8
 
-#EXTINF:0 tvg-id="Planet Earth" tvg-name="planet_earth" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg" group-title="In The Box", Planet Earth 
+#EXTINF:0 tvg-id="Planet Earth" tvg-name="planet_earth" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg" group-title="In The Box" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/planet-earth/chunklist_2_${start}.m3u8", Planet Earth 
 https://8387100975.vws.vegacdn.vn/live/planet-earth/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", VTV1 AVG
@@ -934,6 +937,9 @@ https://8387d1dfc2.vws.vegacdn.vn/live/vtc16/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", Quảng Bình AVG
 https://8387f03af3.vws.vegacdn.vn/live/quangbinh/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Thử nghiệm" tvg-logo="", HTV Thể Thao AVG
+https://8387f03af3.vws.vegacdn.vn/live/htv-thethao/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies", Cinema World 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
@@ -1193,8 +1199,8 @@ https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:0 tvg-id="DaVinci" tvg-name="Da Vinci Kids" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005" group-title="Kids", Da Vinci Kids
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="happykids" tvg-name="happykidshd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU" group-title="Kids", Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="happykids" tvg-name="happykidshd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU" group-title="Kids" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/happy-kids/chunklist_2_${start}.m3u8", Happy Kids
+https://8387100975.vws.vegacdn.vn/live/happy-kids/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="abckidsaustralia" tvg-name="ABC Kids Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ABC_Kids_Logo_2020.png" group-title="Kids", ABC Kids Australia
 https://c.mjh.nz/101002210222/?checkedby:iptvcat.com
