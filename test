@@ -1,0 +1,6 @@
+#EXTINF:0 group-title="🇰| K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/524?cb=20211011130056&path-prefix=vi", K+ Life
+#KODIPROP:inputstreamaddon=inputstream.adaptive	
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.todayplus.com.vn/key/live?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiI4aHhCaWxwR2ciLCJpYXQiOjE2Mzg2MTQzMTEsInVzZXJJRCI6Illnbm5nOU83UiJ9.su4xuotLNK5aLqrFRVHQ_7p0yz1Ne5CTCdfLWiG3BY4
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://live2cdn.todayplus.com.vn/hdb/smil:vtv1.smil/chunklist.m3u8
