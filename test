@@ -1,7 +1,0 @@
-#EXTM3U  url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
-
-#EXTM3U Vietnam Channel
-
-#EXTINF:0 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV", VTV1 HD
-http://171.238.180.7:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=40294c92-b7b8-4de4-b2b4-11863825a517&MinBw=0&MaxBw=20000000
-
