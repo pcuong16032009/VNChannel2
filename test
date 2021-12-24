@@ -1,10 +1,2 @@
-#EXTINF:0 group-title="Thử nghiệm" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Quảng Bình TV HD
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:664064
-#EXT-X-STREAM-MEDIA-ID:25D455B0088D9D813828600DFD875569
-#EXT-X-STREAM-DENIED:MTIz
-#EXT-X-STREAM-SIGNAL:B5EAF415F308306CD7EE46812309ECEF
-#EXT-X-KEY:METHOD=AES-128,URI="https://sdrm.vgame.us/verify?key=B4djfb%2FJqs9AmB5uBEhOqVTIDG8McjWTridVdx6LyDw%3D&chanel=quang-binh&mode=live"
-https://isptqrteg4liv.vcdn.cloud/manifest/quang-binh/playlist_720p.m3u8
+#EXTINF:0 group-title="Thử nghiệm" tvg-id="" tvg-logo="", VTV! FPT
+http://192.168.1.241:8080/vtv1hdfpt
