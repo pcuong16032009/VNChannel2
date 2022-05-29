@@ -29,85 +29,85 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV" catchup="append" catchup-days="0.1" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 Full HD
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv5hdtnb" tvg-name="VTV5tnb" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV", VTV5 Tay Nam Bo HD
+#EXTINF:0 tvg-id="vtv5hdtnb" tvg-name="VTV5tnb" tvg-logo="https://mytv.com.vn/upload/channel/68.png" group-title="VTV", VTV5 Tây Nam Bộ HD
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 
-#EXTINF:0 tvg-id="vtv5hdtn" tvg-name="VTV5tn" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV", VTV5 Tay Nguyen HD
+#EXTINF:0 tvg-id="vtv5hdtn" tvg-name="VTV5tn" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="VTV", VTV5 Tây Nguyên HD
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
-#EXTINF:0 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://imgur.com/Pc2ZuX0.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?pass=vienthi&type=dvr&kenh=vtc1-hd&time=${start}&offset=${offset}", VTC1
+#EXTINF:0 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://imgur.com/Pc2ZuX0.png" group-title="VTC", VTC1
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://imgur.com/1FccD2h.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
+#EXTINF:0 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://imgur.com/1FccD2h.png" group-title="VTC", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://imgur.com/vemNwkI.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://vthanh.xyz/ic/36.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?pass=vienthi&type=dvr&kenh=vtc3-hd&time=${start}&offset=${offset}", VTC3 
+#EXTINF:0 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://imgur.com/vemNwkI.png" group-title="VTC", VTC3 
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://imgur.com/0dkRtxJ.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?pass=vienthi&type=dvr&kenh=vtc4-yeah1-family-hd&time=${start}&offset=${offset}", VTC4
+#EXTINF:0 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://imgur.com/0dkRtxJ.png" group-title="VTC", VTC4
 https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://imgur.com/IDkKiEa.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?pass=vienthi&type=dvr&kenh=vtc5-hd&time=${start}&offset=${offset}", VTC5
+#EXTINF:0 tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://imgur.com/IDkKiEa.png" group-title="VTC", VTC5
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtc6hd" tvg-name="VTC6" tvg-logo="https://imgur.com/rTxMJIB.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6
+#EXTINF:0 tvg-id="vtc6hd" tvg-name="VTC6" tvg-logo="https://imgur.com/rTxMJIB.png" group-title="VTC", VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtc7hd" tvg-name="VTC7" tvg-logo="https://imgur.com/sDWf2Q1.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?pass=vienthi&type=dvr&kenh=vtc7-todaytv-hd&time=${start}&offset=${offset}", VTC7
+#EXTINF:0 tvg-id="vtc7hd" tvg-name="VTC7" tvg-logo="https://imgur.com/sDWf2Q1.png" group-title="VTC", VTC7
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://imgur.com/cQ8Ygbk.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?pass=vienthi&type=dvr&kenh=vtc8&time=${start}&offset=${offset}", VTC8 
+#EXTINF:0 tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://imgur.com/cQ8Ygbk.png" group-title="VTC", VTC8 
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtc9hd" tvg-name="VTC9" tvg-logo="https://imgur.com/QuXPUqi.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?pass=vienthi&type=dvr&kenh=vtc9-hd&time=${start}&offset=${offset}", VTC9
+#EXTINF:0 tvg-id="vtc9hd" tvg-name="VTC9" tvg-logo="https://imgur.com/QuXPUqi.png" group-title="VTC", VTC9
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
  
-#EXTINF:0 tvg-id="vtc10hd" tvg-name="VTC10" tvg-logo="https://imgur.com/F6x7ZNA.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10
+#EXTINF:0 tvg-id="vtc10hd" tvg-name="VTC10" tvg-logo="https://imgur.com/F6x7ZNA.png" group-title="VTC", VTC10
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtc11" tvg-name="VTC11" tvg-logo="https://imgur.com/RoTy0Ly.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+#EXTINF:0 tvg-id="vtc11" tvg-name="VTC11" tvg-logo="https://imgur.com/RoTy0Ly.png" group-title="VTC", VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtc12hd" tvg-name="VTC12" tvg-logo="https://imgur.com/qAOy5Cd.png" group-title="VTC", VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtc13hd" tvg-name="VTC13" tvg-logo="https://imgur.com/2RRt2M4.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC13
+#EXTINF:0 tvg-id="vtc13hd" tvg-name="VTC13" tvg-logo="https://imgur.com/2RRt2M4.png" group-title="VTC", VTC13
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtc14hd" tvg-name="VTC14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/262px-VTC14_logo_2018.svg.png" group-title="VTC"catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1500.stream/playlist_dvr_range-${start}-1800.m3u8", VTC14
+#EXTINF:0 tvg-id="vtc14hd" tvg-name="VTC14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/262px-VTC14_logo_2018.svg.png" group-title="VTC", VTC14
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/VTC16_logo_2018.svg" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?pass=vienthi&type=dvr&kenh=vtc16-hd&time=${start}&offset=${offset}", VTC16
+#EXTINF:0 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/VTC16_logo_2018.svg" group-title="VTC", VTC16
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/HTV1_logo_old.png/revision/latest?cb=20201127041418&path-prefix=vi" group-title="HTV", HTV1 
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="htv2hd" tvg-name="HTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/HTV2_logo_%282015-nay%29.png/revision/latest?cb=20201207122353&path-prefix=vi" group-title="HTV" catchup="append" catchup-days="0.1" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8", HTV2
+#EXTINF:0 tvg-id="htv2hd" tvg-name="HTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/HTV2_logo_%282015-nay%29.png/revision/latest?cb=20201207122353&path-prefix=vi" group-title="HTV", HTV2
 https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/963817-HTV3.png" group-title="HTV" catchup="append" catchup-days="0.1" catchup-source="https://tshift.fptplay.net/dvr/vtv3_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTV3
+#EXTINF:0 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/963817-HTV3.png" group-title="HTV" catchup="append" catchup-days="0.1" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="htvkey" tvg-name="HTV Key" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="HTV", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="htv7hd" tvg-name="HTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png" group-title="HTV" catchup="append" catchup-days="0.3" catchup-source="catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV7
+#EXTINF:0 tvg-id="htv7hd" tvg-name="HTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png" group-title="HTV" catchup="append" catchup-days="0.3" catchup-source="catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="htv9hd" tvg-name="HTV9" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTV9_%282016-nay%29.png/revision/latest?cb=20200608060619&path-prefix=vi" group-title="HTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/playlist_dvr_range-${start}-1800.m3u8", HTV9
+#EXTINF:0 tvg-id="htv9hd" tvg-name="HTV9" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTV9_%282016-nay%29.png/revision/latest?cb=20200608060619&path-prefix=vi" group-title="HTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-1800.m3u8", HTV9
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" tvg-name="HTV The Thao" tvg-logo="https://lh3.googleusercontent.com/proxy/g4LobpWFsgt6af5yGUD9pIJqHAo_febBEwmmjh0sU6tIjQ-vuzwg96diFpeJvALSj_QvsHaT245qoa3KRlAC2llHUkFzhwnTdvgUm1DvMc6nQ19KaSeqcA" group-title="HTV", HTV Thể Thao 
+#EXTINF:0 tvg-id="htvthethaohd" tvg-name="HTV The Thao" tvg-logo="https://lh3.googleusercontent.com/proxy/g4LobpWFsgt6af5yGUD9pIJqHAo_febBEwmmjh0sU6tIjQ-vuzwg96diFpeJvALSj_QvsHaT245qoa3KRlAC2llHUkFzhwnTdvgUm1DvMc6nQ19KaSeqcA" group-title="HTV" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png" group-title="HTVC", HTVC Phim HD FPT
+#EXTINF:0 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png" group-title="HTVC" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD FPT
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="htvcdulichhd" tvg-name="HTVC Du Lich HD" tvg-logo="http://3.bp.blogspot.com/-M15thn3jG6c/U_1NQZkvQLI/AAAAAAAADPo/ILSbV7MK3Pw/s1600/htvc-dulich.gif" group-title="HTVC", HTVC Du Lịch HD FPT
 https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Dinh HD" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/566530-Gia-Dinh.png" group-title="HTVC", HTVC Gia Đình HD FPT
+#EXTINF:0 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Dinh HD" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/566530-Gia-Dinh.png" group-title="HTVC" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia Đình HD FPT
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="htvcphunuhd" tvg-name="HTVC Phu Nu HD" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/941585-pn.png" group-title="HTVC", HTVC Phụ Nữ HD FPT
@@ -119,14 +119,11 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.http
 #EXTINF:0 tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhac" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Htvc-canhac.png" group-title="HTVC", HTVC Ca Nhạc FPT
 https://vips-livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="htvc_thuan_viet_hd" tvg-name="HTVC Thuan Viet" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/850471-ThuanViet.png" group-title="HTVC", HTVC Thuần Việt HD FPT
+#EXTINF:0 tvg-id="htvc_thuan_viet_hd" tvg-name="HTVC Thuan Viet" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/850471-ThuanViet.png" group-title="HTVC" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt HD FPT
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="htvc_thuan_viet" tvg-name="HTVC Thuan Viet" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/850471-ThuanViet.png" group-title="HTVC" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/385dda608e5878fb7e62cb10efbc547e1632554064/thuanviet.cat.720p.tms/chunks_dvr_range-${start}-900.m3u8", HTVC Thuần Việt FPT 
+#EXTINF:0 tvg-id="htvc_thuan_viet" tvg-name="HTVC Thuan Viet" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/850471-ThuanViet.png" group-title="HTVC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt FPT 
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="HTVC" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png",VGS Shopping FPT
-https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd" tvg-name="vtvcab1hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Vie_Gi%E1%BA%A3i_Tr%C3%AD.png/revision/latest/scale-to-width-down/340?cb=20191126050457" group-title="VTVCab", VTVCab1 Vie Giải Trí 
 http://gg.gg/vtvcab1VNChannel
@@ -545,10 +542,10 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Ðịa phuong" tvg-logo="http://vthanhtivi.cf/ic/184.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:0 tvg-id="axnhd" tvg-name="axnhd" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png" group-title="QNET", AXN
+#EXTINF:0 tvg-id="axnhd" tvg-name="axnhd" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png" group-title="QNET" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="animalhd" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png" group-title="QNET", Animal Planet
+#EXTINF:0 tvg-id="animalhd" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png" group-title="QNET" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="afnhd" tvg-name="Asian Food Channel" tvg-logo="https://i.ibb.co/4fZs4BK/Asian-Food-Networklogobyvovanloc.png" group-title="QNET", Asian Food Network
@@ -557,10 +554,10 @@ https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="abcaustralia" tvg-name="ABC Australia" tvg-logo="https://i.ibb.co/D8VtZRB/ABCAustralialogobyvovanloc.png" group-title="QNET", ABC Australia
 https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="bbcearth" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/txj3bLH/BBCEarthlogobyvovanloc.png" group-title="QNET", BBC Earth
+#EXTINF:0 tvg-id="bbcearth" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/txj3bLH/BBCEarthlogobyvovanloc.png" group-title="QNET" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/ctpyHTQ/BBCLifestylelogobyvovanloc.png" group-title="QNET", BBC Lifestyle
+#EXTINF:0 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/ctpyHTQ/BBCLifestylelogobyvovanloc.png" group-title="QNET" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
 
 #EXTINF:0 tvg-id="blueantent" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.ibb.co/Dpf6PDv/Blue-ante-ntertainmentlogobyvovanloc.png" group-title="QNET", Rock Entertainment
@@ -572,16 +569,16 @@ https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0 tvg-name="Nasa TV" tvg-logo="https://i.ibb.co/G9xvRJZ/nasalogobyvovanloc.png" group-title="QNET", NASA TV 
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:0 tvg-id="kix" tvg-name="Kix HD" tvg-logo="https://i.ibb.co/4ZYdX8g/kidhdlogobyvovanloc.png" group-title="QNET", Kix HD 
+#EXTINF:0 tvg-id="kix" tvg-name="Kix HD" tvg-logo="https://i.ibb.co/4ZYdX8g/kidhdlogobyvovanloc.png" group-title="QNET" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Kix HD 
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="kbs_world" tvg-name="KBS World" tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png" group-title="QNET", KBS World 
 https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="discoveryhd" tvg-name="Discovery Channnel" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png" group-title="QNET", Discovery Channel 
+#EXTINF:0 tvg-id="discoveryhd" tvg-name="Discovery Channnel" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png" group-title="QNET" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Channel 
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="discoveryasiahd" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/3p1JnX4/Discovery-Asialogobyvovanloc.png" group-title="QNET", Discovery Asia 
+#EXTINF:0 tvg-id="discoveryasiahd" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/3p1JnX4/Discovery-Asialogobyvovanloc.png" group-title="QNET" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia 
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="outdoor_channel" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/RJwaiHH.png" group-title="QNET", Outdoor Channel 
@@ -606,7 +603,10 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="Hits" group-title="QNET" tvg-logo="", Hits
-https://api.vthanhtivii.xyz/v1/getlink/core/cliptv.php?id=dmax&itb=1
+https://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
+
+#EXTINF:0 tvg-id="hgtv" group-title="QNET" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
+https://api.vthanhtivii.xyz/v1/getlink/tv360/99/2
 
 #EXTINF:0 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="QNET", Love Nature 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -618,13 +618,13 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="arirang" tvg-name="Ariang" tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png" group-title="News", Ariang
-https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 #EXTINF:0 tvg-id="bbc_world_news" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/tXCWQ5N/BBCNewslogobyvovanloc.png" group-title="News", BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/8NkLGtv/Bloomberglogobyvovanloc.png" group-title="QNET", Bloomberg
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 #EXTINF:0 tvg-id="cna_channel_news_asia" tvg-name="Channel News Asia" tvg-logo="data:image/png;base64,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" group-title="News", Channel New Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -645,7 +645,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="dw" tvg-name="DW News" tvg-logo="https://i.ibb.co/TRHnsZx/dwnewslogobyvovanloc.png" group-title="News", DW News 
-https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:0 tvg-id="rtnews" tvg-name="RT News" tvg-logo="https://i.ibb.co/0F7Wb96/RTnewslogobyvovanloc.png" group-title="News", RT News 
 http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
@@ -654,9 +654,9 @@ http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
 #EXTINF:0 tvg-id="france_24"" tvg-name="France 24 English" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png" group-title="News", France 24 English 
-https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
 
-#EXTINF:0 tvg-id="france24" tvg-name="France 24 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="News", France 24  
+EXTINF:0 tvg-id="france24" tvg-name="France 24 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="News", France 24  
 https://106bec9d8.vws.vegacdn.vn/hikari/9999999999/cliptv_live/amlst:france24french/chunklist_b1628000.m3u8
 
 #EXTINF:0 tvg-id="nhk_world" tvg-name="NHK World" tvg-logo="https://i.ibb.co/P9Bg12T/NHKWorldlogobyvovanloc.webp" group-title="News", NHK World 
@@ -687,33 +687,63 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persi
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-movie/chunklist_2_${start}.m3u8", Box Movie 1
-http://vthanhtivi.duckdns.org/boxmovie1/mpegts
+http://vthanhvnpt.duckdns.org/boxmovie1/mpegts
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
-http://vthanhtivi.duckdns.org/hollywoodclassics/mpegts
+http://vthanhvnpt.duckdns.org/hollywoodclassics/mpegts
 
 #EXTINF:0 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8" , In The Box
-http://vthanhtivi.duckdns.org/inthebox/mpegts
+http://vthanhvnpt.duckdns.org/inthebox/mpegts
 
 #EXTINF:0 tvg-id="boxhits" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/242.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8 , Box Hits
-http://vthanhtivi.duckdns.org/BOX_HITS/mpegts
+http://vthanhvnpt.duckdns.org/BOX_HITS/mpegts
 
 #EXTINF:0 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8" , Man
-http://vthanhtivi.duckdns.org/man/mpegts
+http://vthanhvnpt.duckdns.org/man/mpegts
 
 #EXTINF:0 tvg-id="Woman" tvg-name="Woman" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg" group-title="In The Box" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8" , Woman 
-http://vthanhtivi.duckdns.org/woman/mpegts
+http://vthanhvnpt.duckdns.org/woman/mpegts
 
 #EXTINF:0 tvg-id="drfithd" tvg-name="dr_fit" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png" group-title="In The Box", Dr Fit 
-https://pprex49o5aliv.vcdn.cloud/live/dr-fit/chunklist_2.m3u8
+http://vthanhvnpt.duckdns.org/drfit/mpegts
 
 #EXTINF:0 tvg-id="musicbox" tvg-name="box_music" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg" group-title="In The Box" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-music/chunklist_2_${start}.m3u8", Box Music 
-https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="Planet Earth" tvg-name="planet_earth" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg" group-title="In The Box" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/planet-earth/chunklist_2_${start}.m3u8", Planet Earth 
-http://vthanhtivi.duckdns.org/planetearth/mpegts
+http://vthanhvnpt.duckdns.org/planetearth/mpegts
 
-#EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies", Cinema World 
+#EXTINF:0 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-movie&itb=1
+
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=hollywood-classics&itb=1
+
+#EXTINF:0 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-channel&itb=1
+
+#EXTINF:0 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-hits&itb=1
+
+#EXTINF:0 tvg-id="man" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=man-tv&itb=1
+
+#EXTINF:0 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=dr-fit&itb=1
+
+#EXTINF:0 tvg-id="happykids" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=happy-kids&itb=1
+
+#EXTINF:0 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-music&itb=1
+
+#EXTINF:0 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=planet-earth&itb=1
+
+#EXTINF:0 tvg-id="woman" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=woman&itb=1
+
+#EXTINF:0 tvg-id="cinema_world_hd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png" group-title="Movies" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinema World 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-name="hbohd" tvg-logo="http://i.imgur.com/wEqQSrc.png" group-title="Movies" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8", HBO 
@@ -731,7 +761,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0 gruop-title="Sports",Eleven Sports UK
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network 
+#EXTINF:0 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" , Cartoon Network 
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png" group-title="Kids", Cartoon Network Arabic
@@ -743,10 +773,10 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0 tvg-id="babytvhd" group-title="Kids" tvg-logo="https://vthanh.xyz/ic/187.png", BabyTV HD
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="animaxhd" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids", Animax 
+#EXTINF:0 tvg-id="animaxhd" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax 
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/6PcT36X/boomeranglogobyvovanloc.png" group-title="Kids", Boomerang
+#EXTINF:0 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/6PcT36X/boomeranglogobyvovanloc.png" group-title="Kids" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="cbeebies" tvg-name="BBC Cbeebies" tvg-logo="https://i.ibb.co/sCjXR0T/cbeebieslogobyvovanloc.png" group-title="Kids", BBC Cbeebies
